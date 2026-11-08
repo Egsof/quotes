@@ -1,0 +1,5163 @@
+[
+ {
+  "id": 1,
+  "quote": "Rumah yang terpecah belah tidak akan bisa berdiri.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "A house divided against itself cannot stand."
+ },
+ {
+  "id": 2,
+  "quote": "Prinsip yang penting boleh, bahkan harus, tidak bisa ditawar.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Important principles may, and must, be inflexible."
+ },
+ {
+  "id": 3,
+  "quote": "Aku menghancurkan musuh-musuhku ketika aku menjadikan mereka sahabat.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah",
+   "perang"
+  ],
+  "quote_en": "I destroy my enemies when I make them my friends."
+ },
+ {
+  "id": 4,
+  "quote": "Kamu harus tumbuh sendiri, setinggi apa pun kakekmu.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "You have to do your own growing no matter how tall your grandfather was."
+ },
+ {
+  "id": 5,
+  "quote": "Kebanyakan orang sebahagia yang mereka putuskan untuk dirinya sendiri.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Most people are about as happy as they make up their minds to be"
+ },
+ {
+  "id": 6,
+  "quote": "Beri aku enam jam untuk menebang pohon, dan empat jam pertama akan kugunakan untuk mengasah kapak.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
+ },
+ {
+  "id": 7,
+  "quote": "Kalau kamu memegang kaki belakang seekor gajah yang berusaha kabur, sebaiknya biarkan saja ia lari.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run."
+ },
+ {
+  "id": 8,
+  "quote": "Hal terbaik tentang masa depan adalah ia datang hanya satu hari dalam satu waktu.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The best thing about the future is that it only comes one day at a time."
+ },
+ {
+  "id": 9,
+  "quote": "Karakter itu seperti pohon, dan reputasi seperti bayangannya. Bayangan adalah apa yang kita pikirkan tentangnya; pohon adalah yang sebenarnya.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing."
+ },
+ {
+  "id": 10,
+  "quote": "Karena keadaan kita baru, kita harus berpikir dan bertindak dengan cara yang baru.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "As our case is new, we must think and act anew."
+ },
+ {
+  "id": 11,
+  "quote": "Pastikan kamu menaruh kakimu di tempat yang benar, lalu berdirilah dengan teguh.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Be sure you put your feet in the right place, then stand firm."
+ },
+ {
+  "id": 12,
+  "quote": "Ingatlah selalu bahwa tekadmu sendiri untuk berhasil lebih penting daripada hal apa pun.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Always bear in mind that your own resolution to succeed is more important than any one thing."
+ },
+ {
+  "id": 13,
+  "quote": "Aku berjalan pelan, tetapi tidak pernah berjalan mundur.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "I walk slowly, but I never walk backward."
+ },
+ {
+  "id": 14,
+  "quote": "Kebenaran biasanya adalah pembelaan terbaik melawan fitnah.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Truth is generally the best vindication against slander."
+ },
+ {
+  "id": 15,
+  "quote": "Aku akan mempersiapkan diri, dan suatu hari kesempatanku akan datang.",
+  "author": "Abraham Lincoln",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "I will prepare and some day my chance will come."
+ },
+ {
+  "id": 16,
+  "quote": "Jika kamu melepaskan sedikit, kamu akan mendapat sedikit ketenangan. Jika kamu melepaskan banyak, kamu akan mendapat banyak ketenangan.",
+  "author": "Ajahn Chah",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace."
+ },
+ {
+  "id": 17,
+  "quote": "Tuhan selalu mengambil jalan yang paling sederhana.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi",
+   "agama"
+  ],
+  "quote_en": "God always takes the simplest way."
+ },
+ {
+  "id": 18,
+  "quote": "Belajarlah dari kemarin, hiduplah untuk hari ini, berharaplah untuk esok.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Learn from yesterday, live for today, hope for tomorrow."
+ },
+ {
+  "id": 19,
+  "quote": "Satu-satunya hal yang benar-benar berharga adalah intuisi.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "The only real valuable thing is intuition."
+ },
+ {
+  "id": 20,
+  "quote": "Begitu kita menerima batas kita, kita melampauinya.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Once we accept our limits, we go beyond them."
+ },
+ {
+  "id": 21,
+  "quote": "Hidup itu seperti naik sepeda. Untuk menjaga keseimbangan, kamu harus terus bergerak.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Life is like riding a bicycle. To keep your balance you must keep moving."
+ },
+ {
+  "id": 22,
+  "quote": "Perasaan dan kerinduan adalah tenaga penggerak di balik semua usaha dan karya manusia.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Feeling and longing are the motive forces behind all human endeavor and human creations."
+ },
+ {
+  "id": 23,
+  "quote": "Aku percaya bahwa hidup yang sederhana dan bersahaja adalah yang terbaik bagi setiap orang, baik untuk tubuh maupun pikiran.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind."
+ },
+ {
+  "id": 24,
+  "quote": "Jangan berusaha menjadi orang yang sukses, tetapi berusahalah menjadi orang yang bernilai.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Try not to become a man of success, but rather try to become a man of value."
+ },
+ {
+  "id": 25,
+  "quote": "Ketika solusinya sederhana, Tuhan sedang menjawab.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi",
+   "agama"
+  ],
+  "quote_en": "When the solution is simple, God is answering."
+ },
+ {
+  "id": 26,
+  "quote": "Seseorang seharusnya mencari apa yang ada, bukan apa yang ia kira seharusnya ada.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "A man should look for what is, and not for what he thinks should be."
+ },
+ {
+  "id": 27,
+  "quote": "Imajinasi lebih penting daripada pengetahuan. Sebab pengetahuan menentukan semua yang kita ketahui dan pahami saat ini, sedangkan imajinasi menunjuk pada semua yang masih bisa kita temukan dan ciptakan.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create."
+ },
+ {
+  "id": 28,
+  "quote": "Jika A adalah kesuksesan dalam hidup, maka A sama dengan x ditambah y ditambah z. Kerja adalah x; y adalah bermain; dan z adalah menjaga mulut tetap tertutup.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut."
+ },
+ {
+  "id": 29,
+  "quote": "Realitas hanyalah ilusi, meski ilusi yang sangat gigih.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Reality is merely an illusion, albeit a very persistent one."
+ },
+ {
+  "id": 30,
+  "quote": "Perdamaian tidak bisa dijaga dengan kekerasan. Ia hanya bisa dicapai lewat saling pengertian.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi",
+   "perang"
+  ],
+  "quote_en": "Peace cannot be kept by force. It can only be achieved by understanding."
+ },
+ {
+  "id": 31,
+  "quote": "Kita tidak bisa menyelesaikan masalah dengan pola pikir yang sama seperti saat kita menciptakannya.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "We cannot solve our problems with the same thinking we used when we created them."
+ },
+ {
+  "id": 32,
+  "quote": "Jika kamu tidak bisa menjelaskannya dengan sederhana, berarti kamu belum cukup memahaminya.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "If you can't explain it simply, you don't understand it well enough."
+ },
+ {
+  "id": 33,
+  "quote": "Imajinasi adalah segalanya. Ia adalah pratinjau dari atraksi kehidupan yang akan datang.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Imagination is everything. It is the preview of life's coming attractions."
+ },
+ {
+  "id": 34,
+  "quote": "Tanda sejati kecerdasan bukanlah pengetahuan, melainkan imajinasi.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "The true sign of intelligence is not knowledge but imagination."
+ },
+ {
+  "id": 35,
+  "quote": "Di tengah setiap kesulitan, tersimpan peluang.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "In the middle of every difficulty lies opportunity."
+ },
+ {
+  "id": 36,
+  "quote": "Memberi teladan bukan cara utama untuk memengaruhi orang lain, melainkan satu-satunya cara.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Setting an example is not the main means of influencing another, it is the only means."
+ },
+ {
+  "id": 37,
+  "quote": "Logika akan membawamu dari A ke B. Imajinasi akan membawamu ke mana saja.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Logic will get you from A to B. Imagination will take you everywhere."
+ },
+ {
+  "id": 38,
+  "quote": "Gagasan besar sering kali mendapat perlawanan keras dari pikiran yang biasa-biasa saja.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Great ideas often receive violent opposition from mediocre minds."
+ },
+ {
+  "id": 39,
+  "quote": "Siapa pun yang tidak menganggap serius kebenaran dalam hal kecil, tidak bisa dipercaya dalam hal besar.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either."
+ },
+ {
+  "id": 40,
+  "quote": "Hanya ada dua cara menjalani hidup. Pertama, seolah-olah tidak ada yang namanya keajaiban. Kedua, seolah-olah segalanya adalah keajaiban.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."
+ },
+ {
+  "id": 41,
+  "quote": "Orang bisa berkata bahwa misteri abadi dunia ini adalah kenyataan bahwa ia dapat dipahami.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "One may say the eternal mystery of the world is its comprehensibility."
+ },
+ {
+  "id": 42,
+  "quote": "Orang yang tidak pernah berbuat kesalahan berarti tidak pernah mencoba hal baru.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "A person who never made a mistake never tried anything new."
+ },
+ {
+  "id": 43,
+  "quote": "Aku tidak punya bakat istimewa. Aku hanya sangat penasaran.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "I have no special talent. I am only passionately curious."
+ },
+ {
+  "id": 44,
+  "quote": "Lakukanlah sesuatu yang luar biasa, mungkin orang akan menirunya.",
+  "author": "Albert Schweitzer",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Do something wonderful, people may imitate it."
+ },
+ {
+  "id": 45,
+  "quote": "Kita semua patut bersyukur kepada orang-orang yang menyalakan kembali semangat di dalam diri.",
+  "author": "Albert Schweitzer",
+  "tags": [
+   "agama",
+   "sejarah"
+  ],
+  "quote_en": "We should all be thankful for those people who rekindle the inner spirit."
+ },
+ {
+  "id": 46,
+  "quote": "Tidak ada yang mustahil bagi orang yang mau mencoba.",
+  "author": "Alexander the Great",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "There is nothing impossible to him who will try."
+ },
+ {
+  "id": 47,
+  "quote": "Sebagian orang selalu mengeluh karena mawar berduri; aku bersyukur karena duri punya mawar.",
+  "author": "Alphonse Karr",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses."
+ },
+ {
+  "id": 48,
+  "quote": "Cinta pada pandangan pertama itu mudah dipahami; yang ajaib adalah ketika dua orang telah saling menatap selama seumur hidup.",
+  "author": "Amy Bloom",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle."
+ },
+ {
+  "id": 49,
+  "quote": "Aku hanya mengenal satu kebebasan, yaitu kebebasan pikiran.",
+  "author": "Antoine de Saint-Exupery",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "I know but one freedom and that is the freedom of the mind."
+ },
+ {
+  "id": 50,
+  "quote": "Awal yang baik adalah setengah dari pekerjaan.",
+  "author": "Aristotle",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Well begun is half done."
+ },
+ {
+  "id": 51,
+  "quote": "Perubahan dalam segala hal itu menyenangkan.",
+  "author": "Aristotle",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Change in all things is sweet."
+ },
+ {
+  "id": 52,
+  "quote": "Ciri pikiran yang terdidik adalah mampu mempertimbangkan sebuah gagasan tanpa langsung menerimanya.",
+  "author": "Aristotle",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "It is the mark of an educated mind to be able to entertain a thought without accepting it."
+ },
+ {
+  "id": 53,
+  "quote": "Kebahagiaan bergantung pada diri kita sendiri.",
+  "author": "Aristotle",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Happiness depends upon ourselves."
+ },
+ {
+  "id": 54,
+  "quote": "Pada segala sesuatu di alam, ada sesuatu yang menakjubkan.",
+  "author": "Aristotle",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "In all things of nature there is something of the marvellous."
+ },
+ {
+  "id": 55,
+  "quote": "Mereka yang tahu, melakukan. Mereka yang mengerti, mengajar.",
+  "author": "Aristotle",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Those that know, do. Those that understand, teach."
+ },
+ {
+  "id": 56,
+  "quote": "Kritik adalah sesuatu yang mudah dihindari: tidak mengatakan apa-apa, tidak melakukan apa-apa, dan tidak menjadi apa-apa.",
+  "author": "Aristotle",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing."
+ },
+ {
+  "id": 57,
+  "quote": "Keunggulan moral lahir dari kebiasaan. Kita menjadi adil dengan melakukan tindakan yang adil, menjadi bersahaja dengan tindakan yang bersahaja, dan menjadi berani dengan tindakan yang berani.",
+  "author": "Aristotle",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts."
+ },
+ {
+  "id": 58,
+  "quote": "Energi pikiran adalah inti kehidupan.",
+  "author": "Aristotle",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The energy of the mind is the essence of life."
+ },
+ {
+  "id": 59,
+  "quote": "Jika satu cara lebih baik daripada yang lain, bisa dipastikan itulah cara alam.",
+  "author": "Aristotle",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "If one way be better than another, that you may be sure is natures way."
+ },
+ {
+  "id": 60,
+  "quote": "Kemarin adalah sejarah. Esok adalah misteri. Dan hari ini? Hari ini adalah hadiah. Itulah sebabnya disebut masa kini.",
+  "author": "Babatunde Olatunji",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present."
+ },
+ {
+  "id": 61,
+  "quote": "Kita perlu menemukan keberanian untuk berkata TIDAK pada hal-hal dan orang-orang yang tidak baik bagi kita, jika ingin menemukan kembali diri kita dan menjalani hidup dengan apa adanya.",
+  "author": "Barbara De Angelis",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity."
+ },
+ {
+  "id": 62,
+  "quote": "Lewat ketekunan, banyak orang meraih keberhasilan dari apa yang tampaknya ditakdirkan menjadi kegagalan.",
+  "author": "Benjamin Disraeli",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Through perseverance many people win success out of what seemed destined to be certain failure."
+ },
+ {
+  "id": 63,
+  "quote": "Dikerjakan dengan baik lebih berharga daripada diucapkan dengan baik.",
+  "author": "Benjamin Franklin",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Well done is better than well said."
+ },
+ {
+  "id": 64,
+  "quote": "Satu hari ini lebih berharga daripada dua hari esok.",
+  "author": "Benjamin Franklin",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "One today is worth two tomorrows."
+ },
+ {
+  "id": 65,
+  "quote": "Tidak pernah ada pisau bagus yang dibuat dari baja yang buruk.",
+  "author": "Benjamin Franklin",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "There never was a good knife made of bad steel."
+ },
+ {
+  "id": 66,
+  "quote": "Waspadai hal-hal kecil; kebocoran kecil bisa menenggelamkan kapal besar.",
+  "author": "Benjamin Franklin",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Watch the little things; a small leak will sink a great ship."
+ },
+ {
+  "id": 67,
+  "quote": "Pengalaman adalah sekolah yang mahal, tetapi orang bodoh tidak mau belajar dari yang lain.",
+  "author": "Benjamin Franklin",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Experience keeps a dear school, but fools will learn in no other."
+ },
+ {
+  "id": 68,
+  "quote": "Kesuksesan adalah guru yang buruk. Ia membujuk orang pintar untuk mengira mereka tidak mungkin kalah.",
+  "author": "Bill Gates",
+  "tags": [
+   "teknologi",
+   "sejarah"
+  ],
+  "quote_en": "Success is a lousy teacher. It seduces smart people into thinking they can't lose."
+ },
+ {
+  "id": 69,
+  "quote": "Yang bisa kukatakan tentang hidup hanyalah: Ya Tuhan, nikmatilah!",
+  "author": "Bob Newhart",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "All I can say about life is, Oh God, enjoy it!"
+ },
+ {
+  "id": 70,
+  "quote": "Jadilah dirimu sendiri, ungkapkan dirimu, percayalah pada dirimu, dan jangan mencari kepribadian orang sukses lalu menirunya.",
+  "author": "Bruce Lee",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it."
+ },
+ {
+  "id": 71,
+  "quote": "Persetan dengan keadaan; aku menciptakan kesempatan.",
+  "author": "Bruce Lee",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "To hell with circumstances; I create opportunities."
+ },
+ {
+  "id": 72,
+  "quote": "Jangan berdoa meminta hidup yang mudah, berdoalah meminta kekuatan untuk menanggung hidup yang sulit.",
+  "author": "Bruce Lee",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Do not pray for an easy life, pray for the strength to endure a difficult one"
+ },
+ {
+  "id": 73,
+  "quote": "Kedamaian datang dari dalam. Jangan mencarinya di luar.",
+  "author": "Buddha",
+  "tags": [
+   "agama",
+   "perang"
+  ],
+  "quote_en": "Peace comes from within. Do not seek it without."
+ },
+ {
+  "id": 74,
+  "quote": "Usahakan sendiri keselamatanmu. Jangan bergantung pada orang lain.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Work out your own salvation. Do not depend on others."
+ },
+ {
+  "id": 75,
+  "quote": "Ia mampu, karena ia yakin dirinya mampu.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "He is able who thinks he is able."
+ },
+ {
+  "id": 76,
+  "quote": "Mereka yang bebas dari pikiran penuh dendam pasti menemukan kedamaian.",
+  "author": "Buddha",
+  "tags": [
+   "agama",
+   "perang"
+  ],
+  "quote_en": "Those who are free of resentful thoughts surely find peace."
+ },
+ {
+  "id": 77,
+  "quote": "Kita menjadi apa yang kita pikirkan.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "What we think, we become."
+ },
+ {
+  "id": 78,
+  "quote": "Lebih baik menempuh perjalanan dengan baik daripada sekadar sampai.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "It is better to travel well than to arrive."
+ },
+ {
+  "id": 79,
+  "quote": "Pikiran adalah segalanya. Apa yang kamu pikirkan, itulah yang kamu jadi.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The mind is everything. What you think you become."
+ },
+ {
+  "id": 80,
+  "quote": "Dalam keterpisahan terletak penderitaan terbesar dunia, dalam belas kasih terletak kekuatan sejati dunia.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "In separateness lies the world's great misery, in compassion lies the world's true strength."
+ },
+ {
+  "id": 81,
+  "quote": "Kebahagiaan datang ketika pekerjaan dan ucapanmu bermanfaat bagi dirimu dan orang lain.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Happiness comes when your work and words are of benefit to yourself and others."
+ },
+ {
+  "id": 82,
+  "quote": "Seperti lilin yang tidak bisa menyala tanpa api, manusia tidak bisa hidup tanpa kehidupan rohani.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Just as a candle cannot burn without fire, men cannot live without a spiritual life."
+ },
+ {
+  "id": 83,
+  "quote": "Jika kamu menyalakan pelita untuk orang lain, jalanmu sendiri juga akan terang.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "If you light a lamp for somebody, it will also brighten your path."
+ },
+ {
+  "id": 84,
+  "quote": "Musuh terburukmu tidak bisa menyakitimu sebesar pikiranmu sendiri yang tidak dijaga.",
+  "author": "Buddha",
+  "tags": [
+   "agama",
+   "perang"
+  ],
+  "quote_en": "Your worst enemy cannot harm you as much as your own unguarded thoughts."
+ },
+ {
+  "id": 85,
+  "quote": "Jalan itu tidak ada di langit. Jalan itu ada di dalam hati.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The way is not in the sky. The way is in the heart."
+ },
+ {
+  "id": 86,
+  "quote": "Tiga hal tidak bisa lama disembunyikan: matahari, bulan, dan kebenaran.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Three things cannot be long hidden: the sun, the moon, and the truth."
+ },
+ {
+  "id": 87,
+  "quote": "Kamu sendiri, sama seperti siapa pun di seluruh alam semesta, pantas mendapatkan cinta dan kasih sayangmu.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "You, yourself, as much as anybody in the entire universe, deserve your love and affection."
+ },
+ {
+  "id": 88,
+  "quote": "Kamu tidak akan dihukum karena amarahmu, kamu akan dihukum oleh amarahmu.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "You will not be punished for your anger, you will be punished by your anger."
+ },
+ {
+  "id": 89,
+  "quote": "Pikiran menjelma menjadi kata. Kata menjelma menjadi perbuatan. Perbuatan berkembang menjadi kebiasaan. Dan kebiasaan mengeras menjadi karakter.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character."
+ },
+ {
+  "id": 90,
+  "quote": "Dalam perdebatan, begitu kita merasa marah, kita sudah berhenti memperjuangkan kebenaran dan mulai memperjuangkan diri sendiri.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves."
+ },
+ {
+  "id": 91,
+  "quote": "Jangan melebih-lebihkan apa yang telah kamu terima, dan jangan iri pada orang lain. Orang yang iri tidak akan memperoleh ketenangan batin.",
+  "author": "Buddha",
+  "tags": [
+   "agama",
+   "perang"
+  ],
+  "quote_en": "Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."
+ },
+ {
+  "id": 92,
+  "quote": "Menjaga tubuh tetap sehat adalah kewajiban... jika tidak, kita tidak akan mampu menjaga pikiran tetap kuat dan jernih.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear."
+ },
+ {
+  "id": 93,
+  "quote": "Hanya ada dua kesalahan yang bisa dibuat di jalan menuju kebenaran: tidak menempuhnya sampai akhir, dan tidak memulainya.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "There are only two mistakes one can make along the road to truth; not going all the way, and not starting."
+ },
+ {
+  "id": 94,
+  "quote": "Untuk menjalani hidup yang murni dan tidak mementingkan diri, seseorang tidak boleh menganggap apa pun sebagai miliknya di tengah kelimpahan.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance."
+ },
+ {
+  "id": 95,
+  "quote": "Jangan terpaku pada masa lalu, jangan bermimpi tentang masa depan, pusatkan pikiran pada saat ini.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."
+ },
+ {
+  "id": 96,
+  "quote": "Kita adalah apa yang kita pikirkan. Segala sesuatu tentang kita muncul dari pikiran kita. Dengan pikiran, kita membentuk dunia.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world."
+ },
+ {
+  "id": 97,
+  "quote": "Tugasmu adalah menemukan duniamu, lalu menyerahkan dirimu kepadanya dengan segenap hati.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Your work is to discover your world and then with all your heart give yourself to it."
+ },
+ {
+  "id": 98,
+  "quote": "Semua diri kita adalah hasil dari apa yang telah kita pikirkan. Pikiran adalah segalanya. Apa yang kita pikirkan, itulah yang kita jadi.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "All that we are is the result of what we have thought. The mind is everything. What we think we become."
+ },
+ {
+  "id": 99,
+  "quote": "Kaki merasakan kaki ketika ia menyentuh tanah.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The foot feels the foot when it feels the ground."
+ },
+ {
+  "id": 100,
+  "quote": "Tidak ada yang menyelamatkan kita selain diri kita sendiri. Tak seorang pun bisa dan tak seorang pun boleh. Kita sendiri yang harus menempuh jalannya.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path."
+ },
+ {
+  "id": 101,
+  "quote": "Ketika kamu menyadari betapa sempurnanya segala sesuatu, kamu akan menengadah dan tertawa kepada langit.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "When you realize how perfect everything is you will tilt your head back and laugh at the sky."
+ },
+ {
+  "id": 102,
+  "quote": "Ribuan lilin dapat dinyalakan dari satu lilin, dan umur lilin itu tidak akan berkurang. Kebahagiaan tidak pernah berkurang karena dibagi.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared."
+ },
+ {
+  "id": 103,
+  "quote": "Orang yang mengalami kesatuan hidup melihat Diri-nya sendiri dalam semua makhluk, dan semua makhluk dalam Diri-nya, serta memandang segalanya dengan mata yang adil.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye."
+ },
+ {
+  "id": 104,
+  "quote": "Di langit tidak ada pembedaan timur dan barat; manusialah yang menciptakan pembedaan dari pikirannya sendiri lalu meyakininya sebagai kebenaran.",
+  "author": "Buddha",
+  "tags": [
+   "agama",
+   "sejarah"
+  ],
+  "quote_en": "In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true."
+ },
+ {
+  "id": 105,
+  "quote": "Selalu ingatlah kebaikan orang lain, bukan kesalahannya.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Always be mindful of the kindness and not the faults of others."
+ },
+ {
+  "id": 106,
+  "quote": "Lebih baik satu kata yang membawa kedamaian daripada seribu kata yang kosong.",
+  "author": "Buddha",
+  "tags": [
+   "agama",
+   "perang"
+  ],
+  "quote_en": "Better than a thousand hollow words, is one word that brings peace."
+ },
+ {
+  "id": 107,
+  "quote": "Kendi terisi tetes demi tetes.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "A jug fills drop by drop."
+ },
+ {
+  "id": 108,
+  "quote": "Kamu hanya kehilangan apa yang kamu genggam erat.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "You only lose what you cling to."
+ },
+ {
+  "id": 109,
+  "quote": "Setiap manusia adalah penulis kesehatan atau penyakitnya sendiri.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Every human being is the author of his own health or disease."
+ },
+ {
+  "id": 110,
+  "quote": "Tubuhmu berharga. Ia adalah kendaraan kita untuk menuju kesadaran. Rawatlah dengan baik.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Your body is precious. It is our vehicle for awakening. Treat it with care."
+ },
+ {
+  "id": 111,
+  "quote": "Kekacauan melekat pada segala sesuatu yang tersusun. Teruslah berusaha dengan tekun.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Chaos is inherent in all compounded things. Strive on with diligence."
+ },
+ {
+  "id": 112,
+  "quote": "Seberat apa pun masa lalu, kamu selalu bisa memulai lagi.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "No matter how hard the past, you can always begin again."
+ },
+ {
+  "id": 113,
+  "quote": "Tugasmu adalah menemukan pekerjaanmu, lalu mencurahkan dirimu kepadanya dengan segenap hati.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Your work is to discover your work and then with all your heart to give yourself to it."
+ },
+ {
+  "id": 114,
+  "quote": "Jika kita bisa melihat keajaiban sekuntum bunga dengan jelas, seluruh hidup kita akan berubah.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "If we could see the miracle of a single flower clearly, our whole life would change."
+ },
+ {
+  "id": 115,
+  "quote": "Kamu tidak bisa menempuh jalan itu sebelum kamu sendiri menjadi jalan itu.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "You cannot travel the path until you have become the path itself."
+ },
+ {
+  "id": 116,
+  "quote": "Kita dibentuk oleh pikiran kita; kita menjadi apa yang kita pikirkan. Ketika pikiran murni, kegembiraan mengikuti seperti bayangan yang tak pernah pergi.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."
+ },
+ {
+  "id": 117,
+  "quote": "Memendam amarah seperti menggenggam bara panas untuk dilemparkan kepada orang lain; kamulah yang terbakar.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned."
+ },
+ {
+  "id": 118,
+  "quote": "Aku tidak percaya pada takdir yang menimpa manusia apa pun yang mereka lakukan, tetapi aku percaya pada takdir yang menimpa mereka jika mereka tidak bertindak.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act."
+ },
+ {
+  "id": 119,
+  "quote": "Mengingat-ingat kesalahan orang lain seperti memikul beban di pikiran.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Remembering a wrong is like carrying a burden on the mind."
+ },
+ {
+  "id": 120,
+  "quote": "Satu-satunya kegagalan sejati dalam hidup adalah tidak setia pada yang terbaik yang kita ketahui.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The only real failure in life is not to be true to the best one knows."
+ },
+ {
+  "id": 121,
+  "quote": "Sebanyak apa pun kata suci yang kamu baca, sebanyak apa pun yang kamu ucapkan, apa gunanya jika kamu tidak mengamalkannya?",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?"
+ },
+ {
+  "id": 122,
+  "quote": "Meditasi membawa kebijaksanaan; tanpa meditasi yang tersisa hanyalah kebodohan. Kenali apa yang memajukanmu dan apa yang menahanmu, lalu pilih jalan menuju kebijaksanaan.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom."
+ },
+ {
+  "id": 123,
+  "quote": "Jika kamu hendak berbicara, tanyakan selalu pada dirimu: apakah ini benar, apakah ini perlu, apakah ini baik.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "If you propose to speak, always ask yourself, is it true, is it necessary, is it kind."
+ },
+ {
+  "id": 124,
+  "quote": "Gagasan yang dikembangkan dan diwujudkan lebih penting daripada gagasan yang hanya tinggal gagasan.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "An idea that is developed and put into action is more important than an idea that exists only as an idea."
+ },
+ {
+  "id": 125,
+  "quote": "Dirimu adalah apa yang telah kamu jalani. Dirimu nanti adalah apa yang kamu lakukan sekarang.",
+  "author": "Buddha",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "What you are is what you have been. What you will be is what you do now."
+ },
+ {
+  "id": 126,
+  "quote": "Semua orang bisa merasakan sukses ketika keadaan mudah, tetapi hanya sedikit yang tahu cara merasakan kemenangan ketika masa sulit datang.",
+  "author": "Byron Pulsifer",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough."
+ },
+ {
+  "id": 127,
+  "quote": "Banyak orang mengira kemakmuran hanya soal uang, lalu lupa bahwa kemakmuran sejati ada di dalam pikiran.",
+  "author": "Byron Pulsifer",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind."
+ },
+ {
+  "id": 128,
+  "quote": "Kekuatan untuk terus melangkah meski peluangnya kecil berarti kamu percaya pada kemampuan dan pengetahuanmu sendiri.",
+  "author": "Byron Pulsifer",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Strength to carry on despite the odds means you have faith in your own abilities and know how."
+ },
+ {
+  "id": 129,
+  "quote": "Mengetahui tujuan hidup berarti menjalani hidup yang punya arah, dan di dalam arah itulah ditemukan kedamaian dan ketenangan.",
+  "author": "Byron Pulsifer",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity."
+ },
+ {
+  "id": 130,
+  "quote": "Mengenali kegelapanmu sendiri adalah cara terbaik untuk menghadapi kegelapan orang lain.",
+  "author": "Carl Jung",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Knowing your own darkness is the best method for dealing with the darknesses of other people."
+ },
+ {
+  "id": 131,
+  "quote": "Imajinasi sering membawa kita ke dunia yang tak pernah ada. Tetapi tanpanya, kita tidak akan ke mana-mana.",
+  "author": "Carl Sagan",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Imagination will often carry us to worlds that never were. But without it we go nowhere."
+ },
+ {
+  "id": 132,
+  "quote": "Marilah kita menghormati dan memuja, tetapi dengan tegak dan mata terbuka, yang tertinggi, bukan yang terendah; masa depan, bukan masa lalu!",
+  "author": "Charlotte Gilman",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!"
+ },
+ {
+  "id": 133,
+  "quote": "Orang yang berkata hal itu tidak mungkin dilakukan sebaiknya tidak mengganggu mereka yang sedang melakukannya.",
+  "author": "Chinese proverb",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "People who say it cannot be done should not interrupt those who are doing it."
+ },
+ {
+  "id": 134,
+  "quote": "Sering kali orang melihat sisi negatif dari apa yang mereka rasa tidak bisa dilakukan. Aku selalu melihat sisi positif dari apa yang bisa kulakukan.",
+  "author": "Chuck Norris",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do."
+ },
+ {
+  "id": 135,
+  "quote": "Banyak orang menyerah tepat sebelum mereka berhasil. Kamu tidak pernah tahu kapan rintangan berikutnya akan menjadi yang terakhir.",
+  "author": "Chuck Norris",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "A lot of people give up just before they're about to make it. You know you never know when that next obstacle is going to be the last one."
+ },
+ {
+  "id": 136,
+  "quote": "Kita tidak boleh mengatakan bahwa setiap kesalahan adalah kebodohan.",
+  "author": "Cicero",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "We must not say every mistake is a foolish one."
+ },
+ {
+  "id": 137,
+  "quote": "Rasa syukur bukan hanya kebajikan terbesar, tetapi juga induk dari semua kebajikan lainnya.",
+  "author": "Cicero",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Gratitude is not only the greatest of virtues, but the parent of all the others."
+ },
+ {
+  "id": 138,
+  "quote": "Ada orang yang punya uang, dan ada orang yang kaya.",
+  "author": "Coco Chanel",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "There are people who have money and people who are rich."
+ },
+ {
+  "id": 139,
+  "quote": "Pelajarilah masa lalu jika kamu ingin meramalkan masa depan.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Study the past, if you would divine the future."
+ },
+ {
+  "id": 140,
+  "quote": "Diam adalah sahabat sejati yang tidak pernah berkhianat.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Silence is a true friend who never betrays."
+ },
+ {
+  "id": 141,
+  "quote": "Pikirkan hari esok, masa lalu tidak bisa diperbaiki.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Think of tomorrow, the past can't be mended."
+ },
+ {
+  "id": 142,
+  "quote": "Ke mana pun kamu pergi, pergilah dengan segenap hati.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Wherever you go, go with all your heart."
+ },
+ {
+  "id": 143,
+  "quote": "Semakin kamu mengenal dirimu, semakin mudah kamu memaafkan dirimu.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The more you know yourself, the more you forgive yourself."
+ },
+ {
+  "id": 144,
+  "quote": "Berbuat salah bukanlah apa-apa, kecuali jika kamu terus mengingatnya.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "To be wrong is nothing unless you continue to remember it."
+ },
+ {
+  "id": 145,
+  "quote": "Orang yang berhati-hati jarang berbuat salah.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The cautious seldom err."
+ },
+ {
+  "id": 146,
+  "quote": "Apa yang tidak ingin dilakukan kepada dirimu, jangan lakukan kepada orang lain.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "What you do not want done to yourself, do not do to others."
+ },
+ {
+  "id": 147,
+  "quote": "Dengan mengulang apa yang telah dipelajari dan belajar hal baru, kamu layak menjadi guru.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Reviewing what you have learned and learning anew, you are fit to be a teacher."
+ },
+ {
+  "id": 148,
+  "quote": "Orang yang unggul merasa puas dan tenang; orang yang picik selalu penuh kegelisahan.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The superior man is satisfied and composed; the mean man is always full of distress."
+ },
+ {
+  "id": 149,
+  "quote": "Tidak masalah seberapa pelan kamu berjalan, asalkan kamu tidak berhenti.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "It does not matter how slowly you go as long as you do not stop."
+ },
+ {
+  "id": 150,
+  "quote": "Belajar tanpa berpikir adalah sia-sia. Berpikir tanpa belajar adalah berbahaya.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "To study and not think is a waste. To think and not study is dangerous."
+ },
+ {
+  "id": 151,
+  "quote": "Aku tidak akan risau bila orang lain tidak mengenalku; aku akan risau bila aku sendiri kurang mampu.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability."
+ },
+ {
+  "id": 152,
+  "quote": "Pilihlah pekerjaan yang kamu cintai, dan kamu tidak akan pernah merasa bekerja seharipun dalam hidupmu.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Choose a job you love, and you will never have to work a day in your life."
+ },
+ {
+  "id": 153,
+  "quote": "Ketika melihat orang yang bernilai, pikirkan bagaimana kamu bisa menyamainya. Ketika melihat orang yang tidak pantas, periksalah dirimu sendiri.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself."
+ },
+ {
+  "id": 154,
+  "quote": "Berada dalam kemanusiaan itu baik. Jika kita memilih kebaikan lain dan menjauh dari kemanusiaan, bagaimana kita bisa disebut bijak?",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?"
+ },
+ {
+  "id": 155,
+  "quote": "Ketika jelas bahwa tujuan tidak dapat dicapai, jangan ubah tujuannya, ubahlah langkah-langkahnya.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps."
+ },
+ {
+  "id": 156,
+  "quote": "Aku tidak terganggu karena orang tidak mengenalku. Aku terganggu bila aku tidak mengenal orang lain.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "I am not bothered by the fact that I am unknown. I am bothered when I do not know others."
+ },
+ {
+  "id": 157,
+  "quote": "Orang yang unggul rendah hati dalam ucapan, tetapi melampaui dalam perbuatan.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The superior man is modest in his speech, but exceeds in his actions."
+ },
+ {
+  "id": 158,
+  "quote": "Diperlakukan tidak adil bukanlah apa-apa, kecuali jika kamu terus mengingatnya.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "To be wronged is nothing unless you continue to remember it."
+ },
+ {
+  "id": 159,
+  "quote": "Orang yang ingin tetap bahagia atau bijak harus sering berubah.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "They must often change, who would be constant in happiness or wisdom."
+ },
+ {
+  "id": 160,
+  "quote": "Ketika melihat orang baik, pikirkan untuk menjadi seperti dia. Ketika melihat orang yang kurang baik, renungkan kelemahanmu sendiri.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points."
+ },
+ {
+  "id": 161,
+  "quote": "Ketika bertemu seseorang yang lebih baik darimu, arahkan pikiranmu untuk menyamainya. Ketika bertemu orang yang tidak sebaik dirimu, lihatlah ke dalam dan periksa dirimu sendiri.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self."
+ },
+ {
+  "id": 162,
+  "quote": "Segala sesuatu memiliki keindahan, tetapi tidak semua orang bisa melihatnya.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Everything has beauty, but not everyone sees it."
+ },
+ {
+  "id": 163,
+  "quote": "Aku ingin kamu menjadi segalanya yang adalah dirimu, jauh di pusat keberadaanmu.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "I want you to be everything that's you, deep at the center of your being."
+ },
+ {
+  "id": 164,
+  "quote": "Orang yang unggul menyadari kebenaran, orang yang rendah menyadari keuntungan.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The Superior Man is aware of Righteousness, the inferior man is aware of advantage."
+ },
+ {
+  "id": 165,
+  "quote": "Kata-kata manis dan penampilan yang menjilat jarang berpadu dengan kebajikan sejati.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Fine words and an insinuating appearance are seldom associated with true virtue"
+ },
+ {
+  "id": 166,
+  "quote": "Kemuliaan terbesar kita bukan karena tidak pernah jatuh, melainkan karena bangkit setiap kali kita jatuh.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Our greatest glory is not in never falling, but in rising every time we fall."
+ },
+ {
+  "id": 167,
+  "quote": "Aku mendengar dan aku lupa. Aku melihat dan aku ingat. Aku melakukan dan aku mengerti.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "I hear and I forget. I see and I remember. I do and I understand."
+ },
+ {
+  "id": 168,
+  "quote": "Kemampuan tidak akan pernah mengejar permintaan akan kemampuan itu.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Ability will never catch up with the demand for it."
+ },
+ {
+  "id": 169,
+  "quote": "Orang yang unggul bertindak sebelum berbicara, lalu berbicara sesuai dengan tindakannya.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The superior man acts before he speaks, and afterwards speaks according to his action."
+ },
+ {
+  "id": 170,
+  "quote": "Belajar tanpa merenung itu sia-sia, merenung tanpa belajar itu berbahaya.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Learning without reflection is a waste, reflection without learning is dangerous."
+ },
+ {
+  "id": 171,
+  "quote": "Jika kamu memeriksa hatimu sendiri dan tidak menemukan kesalahan di sana, apa lagi yang perlu dicemaskan? Apa lagi yang perlu ditakuti?",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?"
+ },
+ {
+  "id": 172,
+  "quote": "Ketulusan adalah jalan Langit. Mencapai ketulusan adalah jalan manusia.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Sincerity is the way of Heaven. The attainment of sincerity is the way of men."
+ },
+ {
+  "id": 173,
+  "quote": "Mengabdikan diri dengan sungguh-sungguh pada tugas terhadap sesama manusia, serta menghormati makhluk gaib sambil menjaga jarak darinya, dapat disebut kebijaksanaan.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom."
+ },
+ {
+  "id": 174,
+  "quote": "Orang yang ingin memastikan kebaikan orang lain sebenarnya telah memastikan kebaikannya sendiri.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "He who wishes to secure the good of others, has already secured his own."
+ },
+ {
+  "id": 175,
+  "quote": "Hidup sebenarnya sederhana, tetapi kita ngotot membuatnya rumit.",
+  "author": "Confucius",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Life is really simple, but we insist on making it complicated."
+ },
+ {
+  "id": 176,
+  "quote": "Yang penting adalah nilai yang telah kita ciptakan dalam hidup, orang-orang yang telah kita bahagiakan, dan seberapa besar kita telah bertumbuh sebagai manusia.",
+  "author": "Daisaku Ikeda",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."
+ },
+ {
+  "id": 177,
+  "quote": "Kebahagiaan sejati berarti menempa jiwa yang kuat dan tak terkalahkan, seberat apa pun keadaan kita.",
+  "author": "Daisaku Ikeda",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances."
+ },
+ {
+  "id": 178,
+  "quote": "Ketulusan yang sejati membuka hati orang, sedangkan manipulasi membuatnya tertutup.",
+  "author": "Daisaku Ikeda",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Genuine sincerity opens people's hearts, while manipulation causes them to close."
+ },
+ {
+  "id": 179,
+  "quote": "Jika kamu kalah hari ini, menanglah esok. Dalam semangat menantang yang tak pernah padam inilah inti seorang pemenang.",
+  "author": "Daisaku Ikeda",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor."
+ },
+ {
+  "id": 180,
+  "quote": "Berbuat baiklah kapan pun mungkin. Itu selalu mungkin.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Be kind whenever possible. It is always possible."
+ },
+ {
+  "id": 181,
+  "quote": "Tidur adalah meditasi terbaik.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Sleep is the best meditation."
+ },
+ {
+  "id": 182,
+  "quote": "Aku percaya bahwa pada dasarnya kita sama dan memiliki potensi dasar yang sama.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "I believe that we are fundamentally the same and have the same basic potential."
+ },
+ {
+  "id": 183,
+  "quote": "Cinta dan belas kasih membuka kehidupan batin kita, mengurangi stres, ketidakpercayaan, dan kesepian.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Love and compassion open our own inner life, reducing stress, distrust and loneliness."
+ },
+ {
+  "id": 184,
+  "quote": "Lebih sering daripada tidak, amarah sebenarnya tanda kelemahan, bukan kekuatan.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "More often than not, anger is actually an indication of weakness rather than of strength."
+ },
+ {
+  "id": 185,
+  "quote": "Dengan melampaui masalahmu sendiri dan mengurus orang lain, kamu memperoleh kekuatan batin, kepercayaan diri, keberanian, dan ketenangan yang lebih besar.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm."
+ },
+ {
+  "id": 186,
+  "quote": "Jika kita memiliki sikap mental yang positif, maka bahkan di tengah permusuhan, kita tidak akan kehilangan kedamaian batin.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama",
+   "perang"
+  ],
+  "quote_en": "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."
+ },
+ {
+  "id": 187,
+  "quote": "Cinta yang tulus seharusnya lebih dulu ditujukan pada diri sendiri; jika kita tidak mencintai diri sendiri, bagaimana kita bisa mencintai orang lain?",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Genuine love should first be directed at oneself if we do not love ourselves, how can we love others?"
+ },
+ {
+  "id": 188,
+  "quote": "Dengan menyadari potensi diri dan percaya pada kemampuan sendiri, seseorang dapat membangun dunia yang lebih baik.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "With the realization of ones own potential and self-confidence in ones ability, one can build a better world."
+ },
+ {
+  "id": 189,
+  "quote": "Kunci untuk mengubah hati dan pikiran kita adalah memahami cara kerja pikiran dan emosi kita.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work."
+ },
+ {
+  "id": 190,
+  "quote": "Aku menemukan harapan di hari-hari paling gelap, dan fokus di hari-hari paling terang. Aku tidak menghakimi alam semesta.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."
+ },
+ {
+  "id": 191,
+  "quote": "Orang menempuh jalan yang berbeda untuk mencari kepuasan dan kebahagiaan. Hanya karena mereka tidak berada di jalanmu, bukan berarti mereka tersesat.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama",
+   "sejarah"
+  ],
+  "quote_en": "People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost."
+ },
+ {
+  "id": 192,
+  "quote": "Kebahagiaan bukan sesuatu yang sudah jadi. Ia datang dari tindakanmu sendiri.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Happiness is not something ready made. It comes from your own actions."
+ },
+ {
+  "id": 193,
+  "quote": "Ingatlah bahwa kadang tidak mendapatkan apa yang kamu inginkan adalah keberuntungan yang luar biasa.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Remember that sometimes not getting what you want is a wonderful stroke of luck."
+ },
+ {
+  "id": 194,
+  "quote": "Pertimbangkan bahwa pikiran dan emosi negatif tidak hanya merusak kedamaian kita, tetapi juga melemahkan kesehatan kita.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama",
+   "perang"
+  ],
+  "quote_en": "Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health."
+ },
+ {
+  "id": 195,
+  "quote": "Penawar terbaik bagi rasa tidak aman dan ketakutan adalah belas kasih; ia membawa kita kembali ke dasar kekuatan batin kita.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The greatest antidote to insecurity and the sense of fear is compassion it brings one back to the basis of one's inner strength"
+ },
+ {
+  "id": 196,
+  "quote": "Tidak perlu kuil, tidak perlu filsafat yang rumit. Otak dan hatiku adalah kuilku; filsafatku adalah kebaikan.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness."
+ },
+ {
+  "id": 197,
+  "quote": "Kebahagiaan terutama berasal dari sikap kita sendiri, bukan dari faktor luar.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Happiness mainly comes from our own attitude, rather than from external factors."
+ },
+ {
+  "id": 198,
+  "quote": "Sulit mencapai kerja sama yang tulus selama orang-orang tetap tidak peduli pada perasaan dan kebahagiaan orang lain.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama",
+   "sejarah"
+  ],
+  "quote_en": "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others."
+ },
+ {
+  "id": 199,
+  "quote": "Yang terpenting adalah mengubah pikiran kita, untuk cara berpikir dan sudut pandang baru: kita harus berusaha mengembangkan dunia batin yang baru.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world."
+ },
+ {
+  "id": 200,
+  "quote": "Belas kasih dan kebahagiaan bukan tanda kelemahan, melainkan tanda kekuatan.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Compassion and happiness are not a sign of weakness but a sign of strength."
+ },
+ {
+  "id": 201,
+  "quote": "Lihatlah sisi positif dan potensinya, lalu berusahalah.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "See the positive side, the potential, and make an effort."
+ },
+ {
+  "id": 202,
+  "quote": "Kebahagiaan tidak datang hanya karena keadaan luar; ia terutama bersumber dari sikap batin.",
+  "author": "Dalai Lama",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes."
+ },
+ {
+  "id": 203,
+  "quote": "Sebagian besar hal penting di dunia telah dicapai oleh orang-orang yang terus mencoba ketika tampaknya sudah tidak ada harapan sama sekali.",
+  "author": "Dale Carnegie",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all."
+ },
+ {
+  "id": 204,
+  "quote": "Masa depan tidak dapat diprediksi, tetapi masa depan dapat diciptakan. Kemampuan manusia untuk menciptakanlah yang membuat masyarakat manusia menjadi seperti sekarang.",
+  "author": "Dennis Gabor",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "The future cannot be predicted, but futures can be invented. It was man's ability to invent which has made human society what it is."
+ },
+ {
+  "id": 205,
+  "quote": "Keinginan untuk mencipta adalah salah satu kerinduan terdalam jiwa manusia.",
+  "author": "Dieter F. Uchtdorf",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The desire to create is one of the deepest yearnings of the human soul."
+ },
+ {
+  "id": 206,
+  "quote": "Ketika seseorang mengingatkannya bahwa penduduk Sinope telah menjatuhkan hukuman pengasingan kepadanya, ia berkata, \"Dan aku menghukum mereka untuk tetap tinggal di rumah.\"",
+  "author": "Diogenes",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "When some one reminded him that the people of Sinope had sentenced him to exile, he said, And I sentenced them to stay at home."
+ },
+ {
+  "id": 207,
+  "quote": "Kadang dengan kalah dalam satu pertempuran, kamu menemukan cara baru untuk memenangkan perang.",
+  "author": "Donald Trump",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Sometimes by losing a battle you find a new way to win the war."
+ },
+ {
+  "id": 208,
+  "quote": "Sebelum kamu berdamai dengan dirimu sendiri, kamu tidak akan pernah puas dengan apa yang kamu miliki.",
+  "author": "Doris Mortman",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Until you make peace with who you are, you'll never be content with what you have."
+ },
+ {
+  "id": 209,
+  "quote": "Orang harus menyukai sesama dan memercayai mereka agar hidupnya tidak berantakan.",
+  "author": "E. M. Forster",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "One must be fond of people and trust them if one is not to make a mess of life."
+ },
+ {
+  "id": 210,
+  "quote": "Tidak jarang orang menghabiskan seluruh hidupnya untuk menunggu saat mulai hidup.",
+  "author": "Eckhart Tolle",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "It is not uncommon for people to spend their whole life waiting to start living."
+ },
+ {
+  "id": 211,
+  "quote": "Sahabat adalah orang-orang langka yang bertanya kabar kita lalu menunggu untuk mendengar jawabannya.",
+  "author": "Ed Cunningham",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Friends are those rare people who ask how we are and then wait to hear the answer."
+ },
+ {
+  "id": 212,
+  "quote": "Kosmos tidak bermoral maupun amoral; hanya manusia yang begitu. Siapa yang ingin menggerakkan dunia harus lebih dulu menggerakkan dirinya sendiri.",
+  "author": "Edward Ericson",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself."
+ },
+ {
+  "id": 213,
+  "quote": "Manusia bertumbuh lewat pengalaman bila mereka menghadapi hidup dengan jujur dan berani. Beginilah karakter dibangun.",
+  "author": "Eleanor Roosevelt",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "People grow through experience if they meet life honestly and courageously. This is how character is built."
+ },
+ {
+  "id": 214,
+  "quote": "Aku tidak tertarik pada usia. Orang yang menyebutkan usianya itu konyol. Kamu seusia yang kamu rasakan.",
+  "author": "Elizabeth Arden",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "I'm not interested in age. People who tell me their age are silly. You're as old as you feel."
+ },
+ {
+  "id": 215,
+  "quote": "Kebebasan adalah hak untuk hidup sesuai keinginan kita.",
+  "author": "Epictetus",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Freedom is the right to live as we wish."
+ },
+ {
+  "id": 216,
+  "quote": "Jika kamu mencari kebenaran, kamu tidak akan mencari kemenangan dengan cara yang tidak terhormat, dan jika kamu menemukan kebenaran, kamu akan menjadi tak terkalahkan.",
+  "author": "Epictetus",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible."
+ },
+ {
+  "id": 217,
+  "quote": "Aku suka mendengarkan. Aku belajar banyak dari mendengarkan dengan saksama. Kebanyakan orang tidak pernah mendengarkan.",
+  "author": "Ernest Hemingway",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "I like to listen. I have learned a great deal from listening carefully. Most people never listen."
+ },
+ {
+  "id": 218,
+  "quote": "Ada satu hal yang harus kamu pelajari tentang gerakan kami. Tiga orang lebih baik daripada tidak ada orang.",
+  "author": "Fannie Hamer",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "There is one thing you have got to learn about our movement. Three people are better than no people."
+ },
+ {
+  "id": 219,
+  "quote": "Sudah sewajarnya mengambil sebuah metode dan mencobanya. Jika gagal, akui dengan jujur dan coba yang lain. Tetapi yang terpenting, cobalah sesuatu.",
+  "author": "Franklin D. Roosevelt",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something."
+ },
+ {
+  "id": 220,
+  "quote": "Jika kamu ingin mempelajari dirimu, lihatlah ke dalam hati orang lain. Jika kamu ingin mempelajari orang lain, lihatlah ke dalam hatimu sendiri.",
+  "author": "Friedrich von Schiller",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "If you want to study yourself look into the hearts of other people. If you want to study other people look into your own heart."
+ },
+ {
+  "id": 221,
+  "quote": "Jiwa disembuhkan dengan berada bersama anak-anak.",
+  "author": "Fyodor Dostoevsky",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The soul is healed by being with children."
+ },
+ {
+  "id": 222,
+  "quote": "Semua kebenaran mudah dipahami setelah ditemukan; masalahnya adalah menemukannya.",
+  "author": "Galileo Galilei",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "All truths are easy to understand once they are discovered; the point is to discover them."
+ },
+ {
+  "id": 223,
+  "quote": "Sangat fatal memasuki perang apa pun tanpa tekad untuk memenangkannya.",
+  "author": "General Douglas MacArthur",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "It is fatal to enter any war without the will to win it."
+ },
+ {
+  "id": 224,
+  "quote": "Orang dengan kemampuan biasa-biasa saja kadang meraih sukses luar biasa karena tidak tahu kapan harus berhenti. Kebanyakan orang berhasil karena mereka bertekad.",
+  "author": "George Allen",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "People of mediocre ability sometimes achieve outstanding success because they don't know when to quit. Most men succeed because they are determined to."
+ },
+ {
+  "id": 225,
+  "quote": "Terimalah tantangan, agar kamu merasakan gembiranya kemenangan.",
+  "author": "George Patton",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Accept challenges, so that you may feel the exhilaration of victory."
+ },
+ {
+  "id": 226,
+  "quote": "Mereka yang tidak mau belajar dari sejarah ditakdirkan untuk mengulanginya.",
+  "author": "George Santayan",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Those who cannot learn from history are doomed to repeat it."
+ },
+ {
+  "id": 227,
+  "quote": "Mulailah menenun, dan Tuhan akan memberimu benangnya.",
+  "author": "German proverb",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Begin to weave and God will give you the thread."
+ },
+ {
+  "id": 228,
+  "quote": "Hidup kita adalah satu-satunya ungkapan bermakna tentang apa yang kita yakini dan kepada Siapa kita percaya. Dan satu-satunya kekayaan sejati bagi kita semua terletak pada iman kita.",
+  "author": "Gordon Hinckley",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith."
+ },
+ {
+  "id": 229,
+  "quote": "Orang yang bahagia dan efisien di dunia ini adalah mereka yang menerima kesulitan sebagai bagian normal dari hidup manusia dan bertekad memanfaatkannya ketika datang.",
+  "author": "H. Bertram Lewis",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The happy and efficient people in this world are those who accept trouble as a normal detail of human life and resolve to capitalize it when it comes along."
+ },
+ {
+  "id": 230,
+  "quote": "Tidak ada orang pesimis yang pernah menemukan rahasia bintang, berlayar ke tanah yang belum dipetakan, atau membuka surga baru bagi jiwa manusia.",
+  "author": "Helen Keller",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit."
+ },
+ {
+  "id": 231,
+  "quote": "Karakter tidak dapat dibentuk dalam kemudahan dan ketenangan. Hanya lewat pengalaman ujian dan penderitaan jiwa dapat dikuatkan, pandangan dijernihkan, ambisi diilhami, dan keberhasilan dicapai.",
+  "author": "Helen Keller",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved."
+ },
+ {
+  "id": 232,
+  "quote": "Rasa syukur adalah bunga terindah yang tumbuh dari jiwa.",
+  "author": "Henry Beecher",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Gratitude is the fairest blossom which springs from the soul."
+ },
+ {
+  "id": 233,
+  "quote": "Intuisi adalah kekuatan atau aktivitas jiwa dalam pengalamannya melalui apa pun yang telah dialami jiwa itu sendiri.",
+  "author": "Henry Reed",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself."
+ },
+ {
+  "id": 234,
+  "quote": "Setiap seniman mencelupkan kuasnya ke dalam jiwanya sendiri, dan melukiskan wataknya sendiri dalam karyanya.",
+  "author": "Henry Ward Beecher",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Every artist dips his brush in his own soul, and paints his own nature into his pictures."
+ },
+ {
+  "id": 235,
+  "quote": "Sains adalah pengetahuan yang tertata. Kebijaksanaan adalah hidup yang tertata.",
+  "author": "Immanuel Kant",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Science is organized knowledge. Wisdom is organized life."
+ },
+ {
+  "id": 236,
+  "quote": "Ibadah yang paling mulia adalah menjadikan dirimu sebaik dan seadil yang kamu bisa.",
+  "author": "Isocrates",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The noblest worship is to make yourself as good and as just as you can."
+ },
+ {
+  "id": 237,
+  "quote": "Jika kamu menghadapi setiap tantangan selangkah demi selangkah, dengan iman di setiap langkah, kekuatan dan pemahamanmu akan bertambah.",
+  "author": "James Faust",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "If you take each challenge one step at a time, with faith in every footstep, your strength and understanding will increase."
+ },
+ {
+  "id": 238,
+  "quote": "Orang yang paling sukses adalah mereka yang pandai menjalankan rencana B.",
+  "author": "James Yorke",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The most successful people are those who are good at plan B."
+ },
+ {
+  "id": 239,
+  "quote": "Kejeniusan, ketenaran, maupun cinta tidak menunjukkan kebesaran jiwa. Hanya kebaikan yang bisa menunjukkannya.",
+  "author": "Jean Lacordaire",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Neither genius, fame, nor love show the greatness of the soul. Only kindness can do that."
+ },
+ {
+  "id": 240,
+  "quote": "Kebebasan adalah apa yang kamu lakukan dengan apa yang telah dilakukan kepadamu.",
+  "author": "Jean-Paul Sartre",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Freedom is what you do with what's been done to you."
+ },
+ {
+  "id": 241,
+  "quote": "Manusia diciptakan sedemikian rupa sehingga setiap orang lebih suka mengerjakan apa yang dilihatnya dikerjakan orang lain, entah ia berbakat atau tidak.",
+  "author": "Johann Wolfgang von Goethe",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not."
+ },
+ {
+  "id": 242,
+  "quote": "Perlakukan orang seolah-olah mereka sudah menjadi seperti yang seharusnya, dan kamu membantu mereka menjadi seperti yang mampu mereka capai.",
+  "author": "Johann Wolfgang von Goethe",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Treat people as if they were what they ought to be and you help them to become what they are capable of being."
+ },
+ {
+  "id": 243,
+  "quote": "Mengucapkan syukur itu sopan dan menyenangkan, mewujudkan syukur itu dermawan dan mulia, tetapi menghidupi syukur adalah menyentuh Surga.",
+  "author": "Johannes Gaertner",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven."
+ },
+ {
+  "id": 244,
+  "quote": "Konflik adalah pengusik pikiran. Ia menggugah pengamatan dan ingatan. Ia mendorong penemuan. Ia mengguncang kita dari kepasifan seperti domba, dan membuat kita mengamati dan merancang.",
+  "author": "John Dewey",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheep-like passivity, and sets us at noting and contriving."
+ },
+ {
+  "id": 245,
+  "quote": "Setiap kemajuan besar dalam sains lahir dari keberanian baru imajinasi.",
+  "author": "John Dewey",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Every great advance in science has issued from a new audacity of the imagination."
+ },
+ {
+  "id": 246,
+  "quote": "Saat kita mengungkapkan rasa syukur, jangan pernah lupa bahwa penghargaan tertinggi bukanlah mengucapkan kata-kata, melainkan hidup menurut kata-kata itu.",
+  "author": "John F. Kennedy",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them."
+ },
+ {
+  "id": 247,
+  "quote": "Jangan pernah mengatakan kepada anak muda bahwa sesuatu tidak mungkin dilakukan. Mungkin Tuhan telah menunggu berabad-abad untuk seseorang yang cukup tidak tahu soal kemustahilan sehingga mau melakukan hal itu.",
+  "author": "John Holmes",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Never tell a young person that anything cannot be done. God may have been waiting centuries for someone ignorant enough of the impossible to do that very thing."
+ },
+ {
+  "id": 248,
+  "quote": "Perubahan adalah hukum kehidupan. Dan mereka yang hanya melihat masa lalu atau masa kini pasti akan kehilangan masa depan.",
+  "author": "John Kennedy",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Change is the law of life. And those who look only to the past or present are certain to miss the future."
+ },
+ {
+  "id": 249,
+  "quote": "Marilah kita bertekad menjadi penguasa, bukan korban, dari sejarah kita, mengendalikan takdir sendiri tanpa menyerah pada kecurigaan dan emosi yang buta.",
+  "author": "John Kennedy",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions."
+ },
+ {
+  "id": 250,
+  "quote": "Pilihlah pertempuran yang cukup besar untuk berarti, dan cukup kecil untuk dimenangkan.",
+  "author": "Jonathan Kozol",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Pick battles big enough to matter, small enough to win."
+ },
+ {
+  "id": 251,
+  "quote": "Lewat sains kita membuktikan, tetapi lewat intuisi kita menemukan.",
+  "author": "Jules Poincare",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "It is through science that we prove, but through intuition that we discover."
+ },
+ {
+  "id": 252,
+  "quote": "Sebagian orang berkembang dalam perubahan besar yang dramatis. Sebagian lebih suka jalan yang lambat dan stabil. Lakukan yang tepat untukmu.",
+  "author": "Julie Morgenstern",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you."
+ },
+ {
+  "id": 253,
+  "quote": "Jadilah pemimpin, tetapi jangan pernah menjadi penguasa.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Be the chief but never the lord."
+ },
+ {
+  "id": 254,
+  "quote": "Untuk memimpin orang, berjalanlah di belakang mereka.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama",
+   "sejarah"
+  ],
+  "quote_en": "To lead people walk behind them."
+ },
+ {
+  "id": 255,
+  "quote": "Tidak melakukan apa-apa lebih baik daripada sibuk tanpa hasil.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Doing nothing is better than being busy doing nothing."
+ },
+ {
+  "id": 256,
+  "quote": "Antisipasi yang sulit dengan mengelola yang mudah.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Anticipate the difficult by managing the easy."
+ },
+ {
+  "id": 257,
+  "quote": "Orang yang banyak bicara lebih cepat kehabisan tenaga.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "He who talks more is sooner exhausted."
+ },
+ {
+  "id": 258,
+  "quote": "Orang yang merasa cukup adalah orang kaya.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "He who is contented is rich."
+ },
+ {
+  "id": 259,
+  "quote": "Perjalanan seribu mil dimulai dengan satu langkah.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The journey of a thousand miles begins with one step."
+ },
+ {
+  "id": 260,
+  "quote": "Seekor semut yang terus bergerak berbuat lebih banyak daripada sapi yang terkantuk-kantuk.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "An ant on the move does more than a dozing ox"
+ },
+ {
+  "id": 261,
+  "quote": "Jika kamu membenahi pikiranmu, sisa hidupmu akan tertata dengan sendirinya.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "If you correct your mind, the rest of your life will fall into place."
+ },
+ {
+  "id": 262,
+  "quote": "Jika ingin mengambil, kamu harus memberi lebih dulu; inilah awal dari kecerdasan.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "If you would take, you must first give, this is the beginning of intelligence."
+ },
+ {
+  "id": 263,
+  "quote": "Orang bijak tidak menimbun hartanya sendiri. Semakin banyak ia memberi kepada orang lain, semakin banyak yang ia miliki.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own."
+ },
+ {
+  "id": 264,
+  "quote": "Sungguh agung kemuliaan Sang Pencipta, yang kepada-Nya semua makhluk berutang awal keberadaannya dan yang meliputi seluruh langit.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven."
+ },
+ {
+  "id": 265,
+  "quote": "Di pusat keberadaanmu, kamu memiliki jawabannya; kamu tahu siapa dirimu dan kamu tahu apa yang kamu inginkan.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "At the center of your being you have the answer; you know who you are and you know what you want."
+ },
+ {
+  "id": 266,
+  "quote": "Ketika kamu puas menjadi dirimu sendiri dan tidak membandingkan atau bersaing, semua orang akan menghormatimu.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "When you are content to be simply yourself and don't compare or compete, everybody will respect you."
+ },
+ {
+  "id": 267,
+  "quote": "Segala hal sulit bermula dari yang mudah, dan hal-hal besar dari yang kecil.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "All difficult things have their origin in that which is easy, and great things in that which is small."
+ },
+ {
+  "id": 268,
+  "quote": "Aku hanya punya tiga hal untuk diajarkan: kesederhanaan, kesabaran, dan belas kasih. Ketiganya adalah hartamu yang terbesar.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures."
+ },
+ {
+  "id": 269,
+  "quote": "Ketika kamu menyadari bahwa tidak ada yang kurang, seluruh dunia menjadi milikmu.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "When you realize there is nothing lacking, the whole world belongs to you."
+ },
+ {
+  "id": 270,
+  "quote": "Dengan melepaskan, semuanya selesai. Dunia dimenangkan oleh mereka yang melepaskan. Tetapi ketika kamu terus-menerus memaksa, dunia berada di luar jangkauan kemenangan.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning."
+ },
+ {
+  "id": 271,
+  "quote": "Orang yang menaklukkan orang lain itu kuat; orang yang menaklukkan dirinya sendiri itu perkasa.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "He who conquers others is strong; He who conquers himself is mighty."
+ },
+ {
+  "id": 272,
+  "quote": "Orang yang menggenggam hanya punya sedikit. Orang yang membagikan punya banyak.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "He who obtains has little. He who scatters has much."
+ },
+ {
+  "id": 273,
+  "quote": "Keheningan adalah sumber kekuatan yang besar.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Silence is a source of great strength."
+ },
+ {
+  "id": 274,
+  "quote": "Jika kamu tidak mengubah arah, kamu bisa berakhir di tempat yang sedang kamu tuju.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "If you do not change direction, you may end up where you are heading."
+ },
+ {
+  "id": 275,
+  "quote": "Dari keajaiban menuju keajaiban, keberadaan terbuka.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "From wonder into wonder existence opens."
+ },
+ {
+  "id": 276,
+  "quote": "Orang yang mengenal dirinya adalah orang yang tercerahkan.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "He who knows himself is enlightened."
+ },
+ {
+  "id": 277,
+  "quote": "Perbuatan besar tersusun dari perbuatan-perbuatan kecil.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Great acts are made up of small deeds."
+ },
+ {
+  "id": 278,
+  "quote": "Tidak ada yang lebih lembut atau lentur daripada air, namun tidak ada yang dapat menahannya.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Nothing is softer or more flexible than water, yet nothing can resist it."
+ },
+ {
+  "id": 279,
+  "quote": "Ketika aku melepaskan siapa diriku, aku menjadi siapa yang mungkin kuraih.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "When I let go of what I am, I become what I might be."
+ },
+ {
+  "id": 280,
+  "quote": "Orang yang menguasai orang lain mungkin berkuasa, tetapi orang yang telah menguasai dirinya sendiri jauh lebih perkasa.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "He who controls others may be powerful, but he who has mastered himself is mightier still."
+ },
+ {
+  "id": 281,
+  "quote": "Melihat segala sesuatu dalam bijinya, itulah kejeniusan.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "To see things in the seed, that is genius."
+ },
+ {
+  "id": 282,
+  "quote": "Kunci pertumbuhan adalah memasukkan dimensi kesadaran yang lebih tinggi ke dalam kesadaran kita.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The key to growth is the introduction of higher dimensions of consciousness into our awareness."
+ },
+ {
+  "id": 283,
+  "quote": "Orang yang tahu tidak berbicara. Orang yang berbicara tidak tahu.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "He who knows, does not speak. He who speaks, does not know."
+ },
+ {
+  "id": 284,
+  "quote": "Kebaikan dalam kata-kata menumbuhkan kepercayaan. Kebaikan dalam pikiran menumbuhkan kedalaman. Kebaikan dalam memberi menumbuhkan cinta.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love."
+ },
+ {
+  "id": 285,
+  "quote": "Pemimpin terbaik adalah yang keberadaannya nyaris tak disadari orang; ketika pekerjaannya selesai dan tujuannya tercapai, mereka akan berkata: kita melakukannya sendiri.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama",
+   "sejarah"
+  ],
+  "quote_en": "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."
+ },
+ {
+  "id": 286,
+  "quote": "Orang yang mengenal orang lain itu bijak. Orang yang mengenal dirinya sendiri itu tercerahkan.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "He who knows others is wise. He who knows himself is enlightened."
+ },
+ {
+  "id": 287,
+  "quote": "Orang yang terlalu ngotot dengan pendapatnya sendiri jarang menemukan orang yang sepakat dengannya.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "One who is too insistent on his own views, finds few to agree with him."
+ },
+ {
+  "id": 288,
+  "quote": "Beri seseorang seekor ikan, dan kamu memberinya makan untuk sehari. Ajari ia memancing, dan kamu memberinya makan seumur hidup.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime."
+ },
+ {
+  "id": 289,
+  "quote": "Orang yang tahu kapan sudah cukup akan selalu berkecukupan.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "He who knows that enough is enough will always have enough."
+ },
+ {
+  "id": 290,
+  "quote": "Musik di dalam jiwa dapat didengar oleh alam semesta.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Music in the soul can be heard by the universe."
+ },
+ {
+  "id": 291,
+  "quote": "Kekuatan pemahaman intuitif akan melindungimu dari bahaya hingga akhir hayatmu.",
+  "author": "Lao Tzu",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The power of intuitive understanding will protect you from harm until the end of your days."
+ },
+ {
+  "id": 292,
+  "quote": "Kesombongan dan kekasaran adalah roda bantu pada sepeda kehidupan bagi orang lemah yang tidak bisa menjaga keseimbangan tanpanya.",
+  "author": "Laura Teresa Marquez",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Arrogance and rudeness are training wheels on the bicycle of life for weak people who cannot keep their balance without them."
+ },
+ {
+  "id": 293,
+  "quote": "Orang jarang memperhatikan baju lama kalau kamu mengenakan senyum yang lebar.",
+  "author": "Lee Mildon",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "People seldom notice old clothes if you wear a big smile."
+ },
+ {
+  "id": 294,
+  "quote": "Selalulah lebih cerdas daripada orang-orang yang mempekerjakanmu.",
+  "author": "Lena Horne",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Always be smarter than the people who hire you."
+ },
+ {
+  "id": 295,
+  "quote": "Orang mungkin meragukan apa yang kamu katakan, tetapi mereka akan percaya pada apa yang kamu lakukan.",
+  "author": "Lewis Cass",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "People may doubt what you say, but they will believe what you do."
+ },
+ {
+  "id": 296,
+  "quote": "Itulah risiko yang kamu ambil jika berubah: orang-orang yang pernah dekat denganmu mungkin tidak menyukai dirimu yang baru. Tetapi akan datang orang lain yang menyukainya.",
+  "author": "Lisa Alther",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along."
+ },
+ {
+  "id": 297,
+  "quote": "Aku tidak percaya Tuhan menempatkan kita di bumi ini untuk menjadi biasa-biasa saja.",
+  "author": "Lou Holtz",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "I can't believe that God put us on this earth to be ordinary."
+ },
+ {
+  "id": 298,
+  "quote": "Aku punya agama sehari-hari yang cocok untukku. Cintai dirimu dulu, dan yang lainnya akan menyesuaikan diri.",
+  "author": "Lucille Ball",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "I have an everyday religion that works for me. Love yourself first, and everything else falls into line."
+ },
+ {
+  "id": 299,
+  "quote": "Kita harus menjadi perubahan yang ingin kita lihat.",
+  "author": "Mahatma Gandhi",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "We must become the change we want to see."
+ },
+ {
+  "id": 300,
+  "quote": "Masa depan bergantung pada apa yang kamu lakukan hari ini.",
+  "author": "Mahatma Gandhi",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The future depends on what you do today."
+ },
+ {
+  "id": 301,
+  "quote": "Hiduplah seolah-olah kamu akan mati besok. Belajarlah seolah-olah kamu akan hidup selamanya.",
+  "author": "Mahatma Gandhi",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Live as if you were to die tomorrow. Learn as if you were to live forever."
+ },
+ {
+  "id": 302,
+  "quote": "Kekuatan tidak datang dari kemampuan fisik. Ia datang dari kemauan yang tak tergoyahkan.",
+  "author": "Mahatma Gandhi",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Strength does not come from physical capacity. It comes from an indomitable will."
+ },
+ {
+  "id": 303,
+  "quote": "Kualitas pekerjaan kitalah yang akan menyenangkan Tuhan, bukan kuantitasnya.",
+  "author": "Mahatma Gandhi",
+  "tags": [
+   "sejarah",
+   "agama"
+  ],
+  "quote_en": "It is the quality of our work which will please God, not the quantity."
+ },
+ {
+  "id": 304,
+  "quote": "Kebesaran kita terletak bukan pada kemampuan membentuk ulang dunia, melainkan membentuk ulang diri kita sendiri.",
+  "author": "Mahatma Gandhi",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Our greatness lies not so much in being able to remake the world as being able to remake ourselves."
+ },
+ {
+  "id": 305,
+  "quote": "Pendidikan adalah paspor kita menuju masa depan, karena hari esok adalah milik orang-orang yang mempersiapkannya hari ini.",
+  "author": "Malcolm X",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Education is our passport to the future, for tomorrow belongs to the people who prepare for it today."
+ },
+ {
+  "id": 306,
+  "quote": "Marilah kita bersyukur kepada orang-orang yang membuat kita bahagia; mereka adalah tukang kebun menawan yang membuat jiwa kita mekar.",
+  "author": "Marcel Proust",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom."
+ },
+ {
+  "id": 307,
+  "quote": "Setiap hari membawa hadiahnya sendiri.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Each day provides its own gifts."
+ },
+ {
+  "id": 308,
+  "quote": "Kehilangan tidak lain adalah perubahan, dan perubahan adalah kegembiraan alam.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Loss is nothing else but change,and change is Natures delight."
+ },
+ {
+  "id": 309,
+  "quote": "Segala yang terjadi terjadi sebagaimana mestinya, dan jika kamu mengamati dengan saksama, kamu akan mendapati hal itu benar.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Everything that happens happens as it should, and if you observe carefully, you will find this to be so."
+ },
+ {
+  "id": 310,
+  "quote": "Sangat sedikit yang dibutuhkan untuk membuat hidup bahagia; semuanya ada di dalam dirimu, dalam caramu berpikir.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking."
+ },
+ {
+  "id": 311,
+  "quote": "Jika sesuatu tidak benar, jangan lakukan; jika tidak benar, jangan katakan.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "If it is not right do not do it; if it is not true do not say it."
+ },
+ {
+  "id": 312,
+  "quote": "Kamu berkuasa atas pikiranmu, bukan atas peristiwa di luar. Sadari hal ini, dan kamu akan menemukan kekuatan.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "You have power over your mind not outside events. Realize this, and you will find strength."
+ },
+ {
+  "id": 313,
+  "quote": "Orang yang hidup selaras dengan dirinya hidup selaras dengan alam semesta.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "He who lives in harmony with himself lives in harmony with the universe."
+ },
+ {
+  "id": 314,
+  "quote": "Alam semesta adalah perubahan; hidup kita adalah apa yang dibuat oleh pikiran kita.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The universe is transformation; our life is what our thoughts make it."
+ },
+ {
+  "id": 315,
+  "quote": "Tengoklah masa lalu, dengan kekaisaran-kekaisarannya yang bangkit dan runtuh, dan kamu pun dapat meramalkan masa depan.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too."
+ },
+ {
+  "id": 316,
+  "quote": "Ketika bangun di pagi hari, pikirkan betapa berharganya hak istimewa untuk hidup, untuk bernapas, berpikir, menikmati, dan mencintai.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "When you arise in the morning, think of what a precious privilege it is to be alive to breathe, to think, to enjoy, to love."
+ },
+ {
+  "id": 317,
+  "quote": "Terimalah hal-hal yang diikatkan takdir kepadamu, dan cintailah orang-orang yang dipertemukan takdir denganmu, tetapi lakukanlah dengan segenap hati.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart."
+ },
+ {
+  "id": 318,
+  "quote": "Segala yang ada pada dasarnya adalah benih dari apa yang akan ada.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Everything that exists is in a manner the seed of that which will be."
+ },
+ {
+  "id": 319,
+  "quote": "Orang yang hidup selaras dengan dirinya hidup selaras dengan dunia.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "He who lives in harmony with himself lives in harmony with the world."
+ },
+ {
+  "id": 320,
+  "quote": "Jangan buang waktu lagi untuk berdebat tentang seperti apa orang baik itu. Jadilah orang baik.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Waste no more time arguing about what a good man should be. Be one."
+ },
+ {
+  "id": 321,
+  "quote": "Tidak ada yang menimpa seseorang kecuali apa yang mampu ia lalui.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "There is nothing happens to any person but what was in his power to go through with."
+ },
+ {
+  "id": 322,
+  "quote": "Segala yang kita dengar adalah opini, bukan fakta. Segala yang kita lihat adalah sudut pandang, bukan kebenaran.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."
+ },
+ {
+  "id": 323,
+  "quote": "Hari ini aku lolos dari kecemasan. Tidak, aku membuangnya, karena ia ada di dalam diriku, dalam persepsiku sendiri, bukan di luar.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Today I escaped anxiety. Or no, I discarded it, because it was within me, in my own perceptions — not outside."
+ },
+ {
+  "id": 324,
+  "quote": "Jangan pernah ragu bahwa sekelompok kecil orang yang peduli dan berkomitmen dapat mengubah dunia. Sungguh, hanya itulah yang pernah berhasil.",
+  "author": "Margaret Mead",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has."
+ },
+ {
+  "id": 325,
+  "quote": "Kita tahu dari sains bahwa tidak ada apa pun di alam semesta yang ada sebagai entitas yang terpisah atau berdiri sendiri.",
+  "author": "Margaret Wheatley",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "We know from science that nothing in the universe exists as an isolated or independent entity."
+ },
+ {
+  "id": 326,
+  "quote": "Aku tidak pernah melihat apa yang sudah dikerjakan; aku hanya melihat apa yang masih harus dikerjakan.",
+  "author": "Marie Curie",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "I never see what has been done; I only see what remains to be done."
+ },
+ {
+  "id": 327,
+  "quote": "Tidak ada yang perlu ditakuti dalam hidup. Semuanya hanya perlu dipahami.",
+  "author": "Marie Curie",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Nothing in life is to be feared. It is only to be understood."
+ },
+ {
+  "id": 328,
+  "quote": "Kurangilah rasa penasaran pada orang, dan perbanyaklah rasa penasaran pada gagasan.",
+  "author": "Marie Curie",
+  "tags": [
+   "teknologi",
+   "sejarah"
+  ],
+  "quote_en": "Be less curious about people and more curious about ideas."
+ },
+ {
+  "id": 329,
+  "quote": "Pada dasarnya ada dua jenis orang. Orang yang mencapai sesuatu, dan orang yang mengaku telah mencapai sesuatu. Kelompok pertama tidak terlalu padat.",
+  "author": "Mark Twain",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded."
+ },
+ {
+  "id": 330,
+  "quote": "Orang jahat selalu terkejut menemukan kemampuan pada orang yang baik.",
+  "author": "Marquis Vauvenargues",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Wicked people are always surprised to find ability in those that are good."
+ },
+ {
+  "id": 331,
+  "quote": "Singkirkan Kristus dari Kitab Suci dan tidak ada lagi yang tersisa.",
+  "author": "Martin Luther",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Remove Christ from the Scriptures and there is nothing left."
+ },
+ {
+  "id": 332,
+  "quote": "Cinta adalah satu-satunya kekuatan yang mampu mengubah musuh menjadi sahabat.",
+  "author": "Martin Luther King, Jr.",
+  "tags": [
+   "sejarah",
+   "perang"
+  ],
+  "quote_en": "Love is the only force capable of transforming an enemy into friend."
+ },
+ {
+  "id": 333,
+  "quote": "Tanpa iman, tidak ada yang mungkin. Dengan iman, tidak ada yang mustahil.",
+  "author": "Mary Bethune",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Without faith, nothing is possible. With it, nothing is impossible."
+ },
+ {
+  "id": 334,
+  "quote": "Mereka yang diberkahi bakat paling besar belum tentu mengungguli yang lain. Orang yang tuntas menyelesaikan pekerjaanlah yang unggul.",
+  "author": "Mary Kay Ash",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel."
+ },
+ {
+  "id": 335,
+  "quote": "Kamu menghalangi mimpimu ketika membiarkan ketakutanmu tumbuh lebih besar daripada imanmu.",
+  "author": "Mary Morrissey",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "You block your dream when you allow your fear to grow bigger than your faith."
+ },
+ {
+  "id": 336,
+  "quote": "Hiduplah lewat perasaan dan kamu akan hidup lewat cinta. Sebab perasaan adalah bahasa jiwa, dan perasaan adalah kebenaran.",
+  "author": "Matt Zotti",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth."
+ },
+ {
+  "id": 337,
+  "quote": "Rasa syukur memberi makna pada masa lalu kita, membawa kedamaian hari ini, dan menciptakan visi untuk hari esok.",
+  "author": "Melody Beattie",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."
+ },
+ {
+  "id": 338,
+  "quote": "Percaya pada diri sendiri adalah jalan yang terbaik dan paling aman.",
+  "author": "Michelangelo",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Faith in oneself is the best and safest course."
+ },
+ {
+  "id": 339,
+  "quote": "Kebebasan tidak layak dimiliki jika tidak mencakup kebebasan untuk berbuat salah.",
+  "author": "Mohandas Gandhi",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Freedom is not worth having if it does not connote freedom to err."
+ },
+ {
+  "id": 340,
+  "quote": "Setiap kali kamu tersenyum pada seseorang, itu adalah tindakan cinta, hadiah bagi orang itu, sesuatu yang indah.",
+  "author": "Mother Teresa",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."
+ },
+ {
+  "id": 341,
+  "quote": "Setialah dalam hal-hal kecil, karena di sanalah kekuatanmu terletak.",
+  "author": "Mother Teresa",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Be faithful in small things because it is in them that your strength lies."
+ },
+ {
+  "id": 342,
+  "quote": "Marilah kita selalu saling bertemu dengan senyuman, karena senyuman adalah awal dari cinta.",
+  "author": "Mother Teresa",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Let us always meet each other with smile, for the smile is the beginning of love."
+ },
+ {
+  "id": 343,
+  "quote": "Kita tidak akan pernah tahu semua kebaikan yang bisa dilakukan oleh sebuah senyuman sederhana.",
+  "author": "Mother Teresa",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "We shall never know all the good that a simple smile can do."
+ },
+ {
+  "id": 344,
+  "quote": "Jika kamu tidak bisa memberi makan seratus orang, beri makan satu orang saja.",
+  "author": "Mother Teresa",
+  "tags": [
+   "agama",
+   "sejarah"
+  ],
+  "quote_en": "If you can't feed a hundred people, then feed just one."
+ },
+ {
+  "id": 345,
+  "quote": "Perdamaian dimulai dengan senyuman.",
+  "author": "Mother Teresa",
+  "tags": [
+   "agama",
+   "perang"
+  ],
+  "quote_en": "Peace begins with a smile."
+ },
+ {
+  "id": 346,
+  "quote": "Kata-kata baik bisa singkat dan mudah diucapkan, tetapi gemanya sungguh tak berkesudahan.",
+  "author": "Mother Teresa",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Kind words can be short and easy to speak but their echoes are truly endless."
+ },
+ {
+  "id": 347,
+  "quote": "Kita tidak bisa melakukan hal-hal besar, hanya hal-hal kecil dengan cinta yang besar.",
+  "author": "Mother Teresa",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "We can do no great things, only small things with great love."
+ },
+ {
+  "id": 348,
+  "quote": "Jangan menunggu pemimpin; lakukanlah sendiri, dari orang ke orang.",
+  "author": "Mother Teresa",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Do not wait for leaders; do it alone, person to person."
+ },
+ {
+  "id": 349,
+  "quote": "Kemenangan adalah milik mereka yang paling gigih.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Victory belongs to the most persevering."
+ },
+ {
+  "id": 350,
+  "quote": "Kebijaksanaan yang paling sejati adalah tekad yang bulat.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "The truest wisdom is a resolute determination."
+ },
+ {
+  "id": 351,
+  "quote": "Imajinasi menguasai dunia.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Imagination rules the world."
+ },
+ {
+  "id": 352,
+  "quote": "Luangkan waktu untuk menimbang, tetapi ketika saat bertindak tiba, berhentilah berpikir dan terjunlah.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Take time to deliberate, but when the time for action has arrived, stop thinking and go in."
+ },
+ {
+  "id": 353,
+  "quote": "Melakukan semua yang mampu dilakukan adalah menjadi manusia; melakukan semua yang diinginkan adalah menjadi dewa.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang",
+   "agama"
+  ],
+  "quote_en": "To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god."
+ },
+ {
+  "id": 354,
+  "quote": "Orang yang takut dikalahkan pasti kalah.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "He who fears being conquered is sure of defeat."
+ },
+ {
+  "id": 355,
+  "quote": "Jika kamu ingin sesuatu dikerjakan dengan baik, kerjakan sendiri.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "If you want a thing done well, do it yourself."
+ },
+ {
+  "id": 356,
+  "quote": "Obat terbaik bagi tubuh adalah pikiran yang tenang.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "The best cure for the body is a quiet mind."
+ },
+ {
+  "id": 357,
+  "quote": "Ketakutan tidak lebih dari keadaan pikiran.",
+  "author": "Napoleon Hill",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Fears are nothing more than a state of mind."
+ },
+ {
+  "id": 358,
+  "quote": "Kebanyakan orang besar meraih keberhasilan terbesarnya hanya selangkah setelah kegagalan terbesarnya.",
+  "author": "Napoleon Hill",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Most great people have attained their greatest success just one step beyond their greatest failure."
+ },
+ {
+  "id": 359,
+  "quote": "Hargailah visi dan mimpimu karena mereka adalah anak-anak jiwamu, cetak biru dari pencapaian puncakmu.",
+  "author": "Napoleon Hill",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements."
+ },
+ {
+  "id": 360,
+  "quote": "Tidak ada yang seperti kembali ke tempat yang tak berubah untuk menemukan cara-cara kamu sendiri telah berubah.",
+  "author": "Nelson Mandela",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered."
+ },
+ {
+  "id": 361,
+  "quote": "Ketika kita dibebaskan dari ketakutan kita sendiri, kehadiran kita otomatis membebaskan orang lain.",
+  "author": "Nelson Mandela",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "As we are liberated from our own fear, our presence automatically liberates others."
+ },
+ {
+  "id": 362,
+  "quote": "Dan ketika kita membiarkan cahaya kita sendiri bersinar, tanpa sadar kita memberi izin kepada orang lain untuk melakukan hal yang sama.",
+  "author": "Nelson Mandela",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "And as we let our own light shine, we unconsciously give other people permission to do the same."
+ },
+ {
+  "id": 363,
+  "quote": "Pada umumnya manusia menilai dari penampilan, bukan kenyataan. Semua orang punya mata, tetapi hanya sedikit yang punya kemampuan menembus.",
+  "author": "Niccolo Machiavelli",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration."
+ },
+ {
+  "id": 364,
+  "quote": "Kamu membutuhkan kekacauan di dalam jiwamu untuk melahirkan bintang yang menari.",
+  "author": "Nietzsche",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "You need chaos in your soul to give birth to a dancing star."
+ },
+ {
+  "id": 365,
+  "quote": "Kebajikan dan kekurangan kita tak terpisahkan, seperti gaya dan materi. Ketika keduanya berpisah, manusia tak ada lagi.",
+  "author": "Nikola Tesla",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
+ },
+ {
+  "id": 366,
+  "quote": "Biarlah masa depan yang mengatakan kebenaran, dan menilai setiap orang menurut karya dan pencapaiannya. Masa kini milik mereka; masa depan, yang sungguh-sungguh kuperjuangkan, adalah milikku.",
+  "author": "Nikola Tesla",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine."
+ },
+ {
+  "id": 367,
+  "quote": "Banyak orang ingin naik limusin bersamamu, tetapi yang kamu butuhkan adalah orang yang mau naik bus bersamamu ketika limusinnya mogok.",
+  "author": "Oprah Winfrey",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down."
+ },
+ {
+  "id": 368,
+  "quote": "Siapa pun bisa membuat sejarah. Hanya orang besar yang mampu menulisnya.",
+  "author": "Oscar Wilde",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Anybody can make history. Only a great man can write it."
+ },
+ {
+  "id": 369,
+  "quote": "Ia bisa, karena ia yakin ia bisa; dan ia tidak bisa, karena ia yakin ia tidak bisa. Ini adalah hukum yang pasti dan tak terbantahkan.",
+  "author": "Pablo Picasso",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law."
+ },
+ {
+  "id": 370,
+  "quote": "Tuliskan rencanamu dengan pensil dan berikan penghapusnya kepada Tuhan.",
+  "author": "Paulo Coelho",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Write your plans in pencil and give God the eraser."
+ },
+ {
+  "id": 371,
+  "quote": "Jika kita belajar membuka hati, siapa pun, termasuk orang yang membuat kita jengkel, bisa menjadi guru kita.",
+  "author": "Pema Chodron",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."
+ },
+ {
+  "id": 372,
+  "quote": "Keputusan yang baik didasarkan pada pengetahuan, bukan pada jumlah.",
+  "author": "Plato",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "A good decision is based on knowledge and not on numbers."
+ },
+ {
+  "id": 373,
+  "quote": "Latihan tubuh yang dipaksakan tidak merugikan tubuh; tetapi pengetahuan yang diperoleh dengan paksaan tidak melekat di pikiran.",
+  "author": "Plato",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind."
+ },
+ {
+  "id": 374,
+  "quote": "Perbuatan baik memberi kekuatan kepada diri kita dan menginspirasi perbuatan baik pada orang lain.",
+  "author": "Plato",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Good actions give strength to ourselves and inspire good actions in others."
+ },
+ {
+  "id": 375,
+  "quote": "Orang bijak berbicara karena mereka punya sesuatu untuk dikatakan; orang bodoh berbicara karena mereka harus mengatakan sesuatu.",
+  "author": "Plato",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Wise men talk because they have something to say; fools, because they have to say something."
+ },
+ {
+  "id": 376,
+  "quote": "Pengetahuan memiliki tiga tingkat: opini, sains, dan pencerahan. Sarana tingkat pertama adalah indra; tingkat kedua, dialektika; tingkat ketiga, intuisi.",
+  "author": "Plotinus",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Knowledge has three degrees opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition."
+ },
+ {
+  "id": 377,
+  "quote": "Percaya berarti menerima pernyataan-pernyataan jiwa; tidak percaya berarti menyangkalnya.",
+  "author": "Ralph Emerson",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."
+ },
+ {
+  "id": 378,
+  "quote": "Masa sulit punya nilai ilmiah. Inilah kesempatan yang tidak akan dilewatkan oleh pembelajar yang baik.",
+  "author": "Ralph Emerson",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Bad times have a scientific value. These are occasions a good learner would not miss."
+ },
+ {
+  "id": 379,
+  "quote": "Ketenangan pikiran tidak didapat dengan memikirkan atau membayangkannya, tetapi dengan menenangkan dan mengendurkan pikiran yang gelisah.",
+  "author": "Remez Sasson",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind."
+ },
+ {
+  "id": 380,
+  "quote": "Kekacauan dan keteraturan bukan musuh, hanya lawan kata.",
+  "author": "Richard Garriott",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Chaos and Order are not enemies, only opposites."
+ },
+ {
+  "id": 381,
+  "quote": "Orang kuat membuat kesalahan sebanyak orang lemah. Bedanya, orang kuat mengakui kesalahannya, menertawakannya, dan belajar darinya. Begitulah mereka menjadi kuat.",
+  "author": "Richard Needham",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong."
+ },
+ {
+  "id": 382,
+  "quote": "Perdamaian bukan sesuatu yang diharapkan. Ia adalah sesuatu yang kita ciptakan, kita lakukan, kita jadikan, dan kita berikan kepada orang lain.",
+  "author": "Robert Fulghum",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away."
+ },
+ {
+  "id": 383,
+  "quote": "Semua pengamatan adalah juga berpikir, semua penalaran adalah juga intuisi, semua observasi adalah juga penemuan.",
+  "author": "Rudolf Arnheim",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "All perceiving is also thinking, all reasoning is also intuition, all observation is also invention."
+ },
+ {
+  "id": 384,
+  "quote": "Sesuatu membuka sayap kita. Sesuatu membuat kebosanan dan luka lenyap. Seseorang mengisi cawan di hadapan kita: kita hanya mencicipi kesucian.",
+  "author": "Rumi",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness."
+ },
+ {
+  "id": 385,
+  "quote": "Setiap orang diciptakan untuk pekerjaan tertentu, dan hasrat untuk pekerjaan itu telah ditanamkan di setiap hati.",
+  "author": "Rumi",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Everyone has been made for some particular work, and the desire for that work has been put in every heart."
+ },
+ {
+  "id": 386,
+  "quote": "Biarlah keindahan dari apa yang kamu cintai menjadi apa yang kamu kerjakan.",
+  "author": "Rumi",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Let the beauty of what you love be what you do."
+ },
+ {
+  "id": 387,
+  "quote": "Biarkan dirimu tertarik diam-diam oleh daya yang lebih kuat dari apa yang sungguh kamu cintai.",
+  "author": "Rumi",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Let yourself be silently drawn by the stronger pull of what you really love."
+ },
+ {
+  "id": 388,
+  "quote": "Jangan bersedih. Apa pun yang hilang darimu akan kembali dalam bentuk lain.",
+  "author": "Rumi",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Don't grieve. Anything you lose comes round in another form."
+ },
+ {
+  "id": 389,
+  "quote": "Sambutlah setiap panggilan yang menggetarkan jiwamu.",
+  "author": "Rumi",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Respond to every call that excites your spirit."
+ },
+ {
+  "id": 390,
+  "quote": "Jadilah seperti pohon dan biarkan daun-daun yang mati berguguran.",
+  "author": "Rumi",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Be like a tree and let the dead leaves drop."
+ },
+ {
+  "id": 391,
+  "quote": "Kesabaran adalah teman kebijaksanaan.",
+  "author": "Saint Augustine",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Patience is the companion of wisdom."
+ },
+ {
+  "id": 392,
+  "quote": "Karena Tuhan menciptakan kita untuk diri-Nya, hati kita gelisah sampai beristirahat di dalam Dia.",
+  "author": "Saint Augustine",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Because God has made us for Himself, our hearts are restless until they rest in Him."
+ },
+ {
+  "id": 393,
+  "quote": "Jatuh cinta kepada Tuhan adalah kisah cinta terbesar; mencari-Nya adalah petualangan terbesar; menemukan-Nya adalah pencapaian manusia yang terbesar.",
+  "author": "Saint Augustine",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "To fall in love with God is the greatest romance; to seek him the greatest adventure; to find him, the greatest human achievement"
+ },
+ {
+  "id": 394,
+  "quote": "Industri kami tidak menghormati tradisi. Yang dihormatinya adalah inovasi.",
+  "author": "Satya Nadella",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Our industry does not respect tradition. What it respects is innovation."
+ },
+ {
+  "id": 395,
+  "quote": "Syarat penaklukan selalu mudah. Kita hanya perlu bekerja keras sebentar, bertahan sebentar, selalu percaya, dan tidak pernah berbalik.",
+  "author": "Seneca",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back."
+ },
+ {
+  "id": 396,
+  "quote": "Kebebasan, dalam arti yang konkret, terletak pada kemampuan untuk memilih.",
+  "author": "Simone Weil",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Liberty, taking the word in its concrete sense, consists in the ability to choose."
+ },
+ {
+  "id": 397,
+  "quote": "Jadilah seperti yang ingin kamu tampilkan.",
+  "author": "Socrates",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Be as you wish to seem."
+ },
+ {
+  "id": 398,
+  "quote": "Kebijaksanaan dimulai dari rasa takjub.",
+  "author": "Socrates",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Wisdom begins in wonder."
+ },
+ {
+  "id": 399,
+  "quote": "Cara terbaik untuk hidup terhormat di dunia ini adalah menjadi seperti yang kita pura-purakan.",
+  "author": "Socrates",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The greatest way to live with honor in this world is to be what we pretend to be."
+ },
+ {
+  "id": 400,
+  "quote": "Ada mata air awet muda: yaitu pikiranmu, bakatmu, dan kreativitas yang kamu bawa ke dalam hidupmu dan hidup orang-orang yang kamu cintai. Ketika kamu belajar menimba sumber ini, kamu benar-benar telah mengalahkan usia.",
+  "author": "Sophia Loren",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "There is a fountain of youth: it is your mind, your talents, the creativity you bring to your life and the lives of people you love. When you learn to tap this source, you will truly have defeated age."
+ },
+ {
+  "id": 401,
+  "quote": "Tetaplah lapar. Tetaplah bodoh.",
+  "author": "Steve Jobs",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Stay hungry. Stay foolish."
+ },
+ {
+  "id": 402,
+  "quote": "Kamu harus percaya pada dirimu sendiri.",
+  "author": "Sun Tzu",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "You have to believe in yourself."
+ },
+ {
+  "id": 403,
+  "quote": "Bisakah kamu bayangkan apa yang akan kulakukan jika aku bisa melakukan semua yang mampu kulakukan?",
+  "author": "Sun Tzu",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Can you imagine what I would do if I could do all I can?"
+ },
+ {
+  "id": 404,
+  "quote": "Musuh terburuk kreativitas adalah keraguan pada diri sendiri.",
+  "author": "Sylvia Plath",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "The worst enemy to creativity is self-doubt."
+ },
+ {
+  "id": 405,
+  "quote": "Ketika kita merasakan cinta dan kebaikan kepada orang lain, itu tidak hanya membuat mereka merasa dicintai dan diperhatikan, tetapi juga membantu kita mengembangkan kebahagiaan dan kedamaian batin.",
+  "author": "Tenzin Gyatso",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace."
+ },
+ {
+  "id": 406,
+  "quote": "Melawan pemikiran dominan teman-temanmu, dan kebanyakan orang yang kamu temui setiap hari, mungkin adalah tindakan kepahlawanan yang paling sulit yang bisa kamu lakukan.",
+  "author": "Theodore H. White",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform."
+ },
+ {
+  "id": 407,
+  "quote": "Arahkan matamu ke bintang-bintang dan jaga kakimu tetap di tanah.",
+  "author": "Theodore Roosevelt",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Keep your eyes on the stars and your feet on the ground."
+ },
+ {
+  "id": 408,
+  "quote": "Besarnya kebahagiaan yang kamu miliki bergantung pada besarnya kebebasan di dalam hatimu.",
+  "author": "Thich Nhat Hanh",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The amount of happiness that you have depends on the amount of freedom you have in your heart."
+ },
+ {
+  "id": 409,
+  "quote": "Dunia ini, setelah segala sains dan ilmu kita, tetap sebuah keajaiban; menakjubkan, penuh teka-teki, magis, dan lebih dari itu, bagi siapa pun yang mau merenungkannya.",
+  "author": "Thomas Carlyle",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it."
+ },
+ {
+  "id": 410,
+  "quote": "Kejeniusan adalah satu persen inspirasi dan sembilan puluh sembilan persen keringat.",
+  "author": "Thomas Edison",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Genius is one percent inspiration and ninety-nine percent perspiration."
+ },
+ {
+  "id": 411,
+  "quote": "Jika kita melakukan hal-hal yang mampu kita lakukan, kita akan membuat diri kita sendiri takjub.",
+  "author": "Thomas Edison",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "If we did the things we are capable of, we would astound ourselves."
+ },
+ {
+  "id": 412,
+  "quote": "Kebanyakan orang melewatkan peluang karena peluang datang dengan pakaian kerja dan tampak seperti pekerjaan.",
+  "author": "Thomas Edison",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Opportunity is missed by most because it is dressed in overalls and looks like work."
+ },
+ {
+  "id": 413,
+  "quote": "Banyak kegagalan hidup adalah orang-orang yang tidak menyadari betapa dekatnya mereka dengan keberhasilan ketika menyerah.",
+  "author": "Thomas Edison",
+  "tags": [
+   "teknologi",
+   "sejarah"
+  ],
+  "quote_en": "Many of life's failures are people who did not realize how close they were to success when they gave up."
+ },
+ {
+  "id": 414,
+  "quote": "Syarat pertama keberhasilan adalah kemampuan menerapkan energi fisik dan mental pada satu masalah tanpa henti dan tanpa lelah.",
+  "author": "Thomas Edison",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."
+ },
+ {
+  "id": 415,
+  "quote": "Jangan menunda sampai besok apa yang bisa kamu kerjakan hari ini.",
+  "author": "Thomas Jefferson",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Never put off till tomorrow what you can do today."
+ },
+ {
+  "id": 416,
+  "quote": "Ingin tahu siapa dirimu? Jangan bertanya. Bertindaklah! Tindakan akan menggambarkan dan menentukan dirimu.",
+  "author": "Thomas Jefferson",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you."
+ },
+ {
+  "id": 417,
+  "quote": "Aku sangat percaya pada keberuntungan, dan kudapati semakin keras aku bekerja, semakin banyak keberuntungan yang kumiliki.",
+  "author": "Thomas Jefferson",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "I'm a great believer in luck and I find the harder I work, the more I have of it."
+ },
+ {
+  "id": 418,
+  "quote": "Jangan membicarakan apa yang telah kamu lakukan atau apa yang akan kamu lakukan.",
+  "author": "Thomas Jefferson",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Don't talk about what you have done or what you are going to do."
+ },
+ {
+  "id": 419,
+  "quote": "Nalar dan penyelidikan bebas adalah satu-satunya alat yang efektif melawan kesalahan.",
+  "author": "Thomas Jefferson",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Reason and free inquiry are the only effectual agents against error."
+ },
+ {
+  "id": 420,
+  "quote": "Senjata paling ampuh melawan segala jenis kesalahan adalah nalar.",
+  "author": "Thomas Paine",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "The most formidable weapon against errors of every kind is reason."
+ },
+ {
+  "id": 421,
+  "quote": "Orang sukses mengajukan pertanyaan yang lebih baik, dan sebagai hasilnya mereka mendapat jawaban yang lebih baik.",
+  "author": "Tony Robbins",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Successful people ask better questions, and as a result, they get better answers."
+ },
+ {
+  "id": 422,
+  "quote": "Orang tidak malas. Mereka hanya punya tujuan yang tidak berdaya, yaitu tujuan yang tidak menginspirasi mereka.",
+  "author": "Tony Robbins",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "People are not lazy. They simply have impotent goals that is, goals that do not inspire them."
+ },
+ {
+  "id": 423,
+  "quote": "Ketika orang-orang saling mirip, mereka cenderung saling menyukai.",
+  "author": "Tony Robbins",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "When people are like each other they tend to like each other."
+ },
+ {
+  "id": 424,
+  "quote": "Zaman sekarang orang mencari pengetahuan, bukan kebijaksanaan. Pengetahuan itu milik masa lalu, kebijaksanaan milik masa depan.",
+  "author": "Vernon Cooper",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future."
+ },
+ {
+  "id": 425,
+  "quote": "Tidak ada pasukan yang mampu menahan kekuatan sebuah gagasan yang waktunya telah tiba.",
+  "author": "Victor Hugo",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "No army can withstand the strength of an idea whose time has come."
+ },
+ {
+  "id": 426,
+  "quote": "Semangat, kemauan untuk menang, dan kemauan untuk unggul adalah hal-hal yang bertahan. Sifat-sifat ini jauh lebih penting daripada peristiwa yang terjadi.",
+  "author": "Vincent Lombardi",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur."
+ },
+ {
+  "id": 427,
+  "quote": "Mereka yang yakin mampu menaklukkan, akan menaklukkan.",
+  "author": "Virgil",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "They can conquer who believe they can."
+ },
+ {
+  "id": 428,
+  "quote": "Memilih yang sulit sepanjang hari seolah-olah itu mudah, itulah iman.",
+  "author": "W. H. Auden",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "To choose what is difficult all ones days, as if it were easy, that is faith."
+ },
+ {
+  "id": 429,
+  "quote": "Kita cukup ilahi untuk meminta dan cukup penting untuk menerima.",
+  "author": "Wayne Dyer",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "We are Divine enough to ask and we are important enough to receive."
+ },
+ {
+  "id": 430,
+  "quote": "Pedoman hidup: kamu diperlakukan dalam hidup sesuai cara kamu mengajari orang memperlakukanmu.",
+  "author": "Wayne Dyer",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Maxim for life: You get treated in life the way you teach people to treat you."
+ },
+ {
+  "id": 431,
+  "quote": "Singkatnya, kamu mengira hal-hal atau orang lain membuatmu tidak bahagia, tetapi itu tidak tepat. Kamulah yang membuat dirimu tidak bahagia.",
+  "author": "Wayne Dyer",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy."
+ },
+ {
+  "id": 432,
+  "quote": "Kita ada di sini karena suatu alasan. Kupikir sebagian alasannya adalah melemparkan obor-obor kecil untuk menuntun orang melewati kegelapan.",
+  "author": "Whoopi Goldberg",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "We're here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark."
+ },
+ {
+  "id": 433,
+  "quote": "Masalah kebanyakan orang adalah mereka berpikir dengan harapan, ketakutan, atau keinginan mereka, bukan dengan akal.",
+  "author": "Will Durant",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds."
+ },
+ {
+  "id": 434,
+  "quote": "Sebab segala yang hidup adalah suci, kehidupan bergembira dalam kehidupan.",
+  "author": "William Blake",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "For everything that lives is holy, life delights in life."
+ },
+ {
+  "id": 435,
+  "quote": "Kesulitan dimaksudkan untuk membangkitkan, bukan mematahkan semangat. Jiwa manusia menjadi kuat lewat pergulatan.",
+  "author": "William Channing",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict."
+ },
+ {
+  "id": 436,
+  "quote": "Keheningan sejati adalah istirahat bagi pikiran; bagi jiwa ia seperti tidur bagi tubuh, yaitu makanan dan penyegar.",
+  "author": "William Penn",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment."
+ },
+ {
+  "id": 437,
+  "quote": "Orang baik menjadi baik karena mereka menemukan kebijaksanaan lewat kegagalan. Kita hanya mendapat sedikit kebijaksanaan dari kesuksesan.",
+  "author": "William Saroyan",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know."
+ },
+ {
+  "id": 438,
+  "quote": "Tuhan memberimu satu wajah, dan kamu membuat dirimu memakai wajah yang lain.",
+  "author": "William Shakespeare",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "God has given you one face, and you make yourself another."
+ },
+ {
+  "id": 439,
+  "quote": "Berpikirlah seperti orang bijak, tetapi berbicaralah dengan bahasa rakyat.",
+  "author": "William Yeats",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Think as a wise man but communicate in the language of the people."
+ },
+ {
+  "id": 440,
+  "quote": "Keberanian adalah bergerak dari kegagalan ke kegagalan tanpa kehilangan semangat.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Courage is going from failure to failure without losing enthusiasm."
+ },
+ {
+  "id": 441,
+  "quote": "Kata-kata pendek adalah yang terbaik, dan kata-kata lama yang pendek adalah yang terbaik dari semuanya.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Short words are best and the old words when short are best of all."
+ },
+ {
+  "id": 442,
+  "quote": "Kamu punya musuh? Bagus. Itu berarti kamu pernah membela sesuatu dalam hidupmu.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "You have enemies? Good. That means you've stood up for something, sometime in your life."
+ },
+ {
+  "id": 443,
+  "quote": "Keberanian dibutuhkan untuk berdiri dan berbicara; keberanian juga dibutuhkan untuk duduk dan mendengarkan.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."
+ },
+ {
+  "id": 444,
+  "quote": "Sejarah akan berbaik hati kepadaku, karena aku berniat menulisnya.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "History will be kind to me for I intend to write it."
+ },
+ {
+  "id": 445,
+  "quote": "Sebelum kamu bisa menginspirasi orang dengan emosi, kamu sendiri harus dibanjiri emosi itu. Sebelum kamu bisa menggerakkan air mata mereka, air matamu sendiri harus mengalir. Untuk meyakinkan mereka, kamu sendiri harus percaya.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe."
+ },
+ {
+  "id": 446,
+  "quote": "Harga dari kebesaran adalah tanggung jawab.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "The price of greatness is responsibility."
+ },
+ {
+  "id": 447,
+  "quote": "Orang pesimis melihat kesulitan dalam setiap peluang. Orang optimis melihat peluang dalam setiap kesulitan.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty."
+ },
+ {
+  "id": 448,
+  "quote": "Aku tidak pernah mengkhawatirkan tindakan, hanya ketiadaan tindakan.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "I never worry about action, but only inaction."
+ },
+ {
+  "id": 449,
+  "quote": "Jangan pernah, jangan pernah, jangan pernah menyerah.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Never, never, never give up."
+ },
+ {
+  "id": 450,
+  "quote": "Kita mencari nafkah dari apa yang kita dapat, tetapi kita membuat kehidupan dari apa yang kita beri.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "We make a living by what we get, but we make a life by what we give."
+ },
+ {
+  "id": 451,
+  "quote": "Usaha yang terus-menerus, bukan kekuatan atau kecerdasan, adalah kunci untuk membuka potensi kita.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Continuous effort, not strength or intelligence is the key to unlocking our potential."
+ },
+ {
+  "id": 452,
+  "quote": "Bukan tingkat kecerdasan atau imajinasi yang tinggi, atau keduanya sekaligus, yang membentuk kejeniusan. Cinta, cinta, cinta, itulah jiwa kejeniusan.",
+  "author": "Wolfgang Amadeus Mozart",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius."
+ },
+ {
+  "id": 453,
+  "quote": "Hal-hal yang kamu pikirkan menentukan kualitas pikiranmu.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The things you think about determine the quality of your mind."
+ },
+ {
+  "id": 454,
+  "quote": "Hambatan bagi tindakan justru memajukan tindakan. Apa yang menghalangi jalan menjadi jalan itu sendiri.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The impediment to action advances action. What stands in the way becomes the way."
+ },
+ {
+  "id": 455,
+  "quote": "Ketika bangun di pagi hari, pikirkan betapa berharganya hak istimewa untuk hidup.",
+  "author": "Marcus Aurelius",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "When you arise in the morning, think of what a precious privilege it is to be alive."
+ },
+ {
+  "id": 456,
+  "quote": "Fungsi kebijaksanaan adalah membedakan yang baik dari yang jahat.",
+  "author": "Cicero",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "The function of wisdom is to discriminate between good and evil."
+ },
+ {
+  "id": 457,
+  "quote": "Jiwa menjadi terwarnai oleh warna pikirannya.",
+  "author": "Musonius Rufus",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "The soul becomes dyed with the color of its thoughts."
+ },
+ {
+  "id": 458,
+  "quote": "Pasukan domba yang dipimpin seekor singa dapat mengalahkan pasukan singa yang dipimpin seekor domba.",
+  "author": "Alfred A. Montapert",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "An army of sheep led by a lion can defeat an army of lions led by a sheep."
+ },
+ {
+  "id": 459,
+  "quote": "Hari ini sudah diberkati, temukanlah kedamaian di dalamnya.",
+  "author": "Unknown",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "The day is already blessed, find peace within it."
+ },
+ {
+  "id": 460,
+  "quote": "Aku tidak pernah memikirkan masa depan. Ia datang cukup cepat.",
+  "author": "Albert Einstein",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "I never think of the future. It comes soon enough."
+ },
+ {
+  "id": 461,
+  "quote": "Hidup hanyalah kesempatan untuk menumbuhkan jiwa.",
+  "author": "A. Powell Davies",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Life is just a chance to grow a soul."
+ },
+ {
+  "id": 462,
+  "quote": "Ciptakan duniamu sendiri. Kelilingi dirimu dengan orang, warna, suara, dan pekerjaan yang memberimu nutrisi.",
+  "author": "Unknown",
+  "tags": [
+   "teknologi",
+   "sejarah"
+  ],
+  "quote_en": "Invent your world. Surround yourself with people, color, sounds, and work that nourish you."
+ },
+ {
+  "id": 463,
+  "quote": "Sebagian orang mengira menggenggam yang membuat kuat; terkadang justru melepaskan.",
+  "author": "Unknown",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Some people think it's holding that makes one strong — sometimes it's letting go."
+ },
+ {
+  "id": 464,
+  "quote": "Penghargaan adalah bentuk doa tertinggi, karena ia mengakui kehadiran kebaikan di mana pun kamu menyinarkan cahaya pikiran syukurmu.",
+  "author": "Alan Cohen",
+  "tags": [
+   "agama"
+  ],
+  "quote_en": "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts."
+ },
+ {
+  "id": 465,
+  "quote": "Kemarin adalah sejarah. Esok adalah misteri. Dan hari ini? Hari ini adalah hadiah, itulah sebabnya disebut masa kini.",
+  "author": "Unknown",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present."
+ },
+ {
+  "id": 466,
+  "quote": "Ketenangan pikiran bukan berarti hidup tanpa konflik, melainkan kemampuan untuk menghadapinya.",
+  "author": "Unknown",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "Peace of mind is not the absence of conflict from life, but the ability to cope with it."
+ },
+ {
+  "id": 467,
+  "quote": "Tidak ada yang perlu ditakuti dalam hidup, semuanya hanya perlu dipahami. Sekaranglah saatnya memahami lebih banyak, agar kita bisa takut lebih sedikit.",
+  "author": "Marie Curie",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
+ },
+ {
+  "id": 468,
+  "quote": "Jangan menunggu orang bersikap ramah. Tunjukkan caranya kepada mereka.",
+  "author": "Unknown",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Don't wait for people to be friendly. Show them how."
+ },
+ {
+  "id": 469,
+  "quote": "Invasi pasukan bisa dilawan, tetapi tidak dengan gagasan yang waktunya telah tiba.",
+  "author": "Victor Hugo",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "An invasion of armies can be resisted, but not an idea whose time has come."
+ },
+ {
+  "id": 470,
+  "quote": "Ketika tidak ada musuh di dalam diri, musuh di luar tidak dapat menyakitimu.",
+  "author": "African proverb",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "When there is no enemy within, the enemies outside cannot hurt you."
+ },
+ {
+  "id": 471,
+  "quote": "Banyak orang telah melangkah lebih jauh dari yang mereka kira mampu, karena ada orang lain yang percaya mereka mampu.",
+  "author": "Unknown",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "Many people have gone further than they thought they could because someone else thought they could."
+ },
+ {
+  "id": 472,
+  "quote": "Dalam perang, tiga perempat adalah soal moral; sisanya soal kekuatan material.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "",
+  "sumber": "Maksim Napoleon",
+  "catatan": "Atribusi umum, belum dapat dipastikan dari sumber primer."
+ },
+ {
+  "id": 473,
+  "quote": "Dari yang agung ke yang konyol hanya satu langkah.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Dicatat oleh De Pradt (1815)"
+ },
+ {
+  "id": 474,
+  "quote": "Pemimpin adalah pedagang harapan.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "",
+  "catatan": "Atribusi umum, belum dapat dipastikan dari sumber primer."
+ },
+ {
+  "id": 475,
+  "quote": "Jangan pernah mengganggu musuhmu ketika ia sedang berbuat kesalahan.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "",
+  "catatan": "Atribusi umum, belum dapat dipastikan dari sumber primer."
+ },
+ {
+  "id": 476,
+  "quote": "Sejarah adalah versi peristiwa masa lalu yang telah disepakati bersama.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "",
+  "catatan": "Atribusi umum, belum dapat dipastikan dari sumber primer."
+ },
+ {
+  "id": 477,
+  "quote": "Ada dua kekuatan di dunia: pedang dan roh. Dalam jangka panjang, pedang selalu dikalahkan oleh roh.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "",
+  "catatan": "Atribusi umum, belum dapat dipastikan dari sumber primer."
+ },
+ {
+  "id": 478,
+  "quote": "Pasukan berbaris dengan perutnya.",
+  "author": "Napoleon Bonaparte",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "",
+  "catatan": "Atribusi umum, belum dapat dipastikan dari sumber primer."
+ },
+ {
+  "id": 479,
+  "quote": "Keunggulan tertinggi adalah mematahkan perlawanan musuh tanpa bertempur.",
+  "author": "Sun Tzu",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "",
+  "sumber": "Seni Perang, bab 3",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 480,
+  "quote": "Jika kamu mengenal musuh dan mengenal dirimu sendiri, kamu tidak perlu takut pada hasil seratus pertempuran.",
+  "author": "Sun Tzu",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "",
+  "sumber": "Seni Perang, bab 3",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 481,
+  "quote": "Seluruh peperangan didasarkan pada tipu daya.",
+  "author": "Sun Tzu",
+  "tags": [
+   "perang"
+  ],
+  "quote_en": "",
+  "sumber": "Seni Perang, bab 1",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 482,
+  "quote": "Perang adalah kelanjutan politik dengan cara lain.",
+  "author": "Carl von Clausewitz",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Vom Kriege",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 483,
+  "quote": "Kita tidak akan pernah menyerah.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Pidato di Parlemen Inggris, 4 Juni 1940"
+ },
+ {
+  "id": 484,
+  "quote": "Aku tidak punya apa-apa untuk ditawarkan selain darah, kerja keras, air mata, dan keringat.",
+  "author": "Winston Churchill",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Pidato, 13 Mei 1940"
+ },
+ {
+  "id": 485,
+  "quote": "Aku datang, aku melihat, aku menaklukkan.",
+  "author": "Julius Caesar",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Veni, vidi, vici (dicatat Plutarkhos dan Suetonius)"
+ },
+ {
+  "id": 486,
+  "quote": "Dadu telah dilemparkan.",
+  "author": "Julius Caesar",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Alea iacta est (dicatat Suetonius)"
+ },
+ {
+  "id": 487,
+  "quote": "Lebih aman ditakuti daripada dicintai, jika seseorang harus memilih salah satu.",
+  "author": "Niccolò Machiavelli",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Sang Pangeran, bab 17",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 488,
+  "quote": "Rencana itu tidak berguna, tetapi perencanaan adalah segalanya.",
+  "author": "Dwight D. Eisenhower",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Pidato, 1957"
+ },
+ {
+  "id": 489,
+  "quote": "Prajurit tua tidak pernah mati, mereka hanya memudar.",
+  "author": "Douglas MacArthur",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Pidato di Kongres AS, 1951"
+ },
+ {
+  "id": 490,
+  "quote": "Ketidakadilan di mana pun adalah ancaman bagi keadilan di mana-mana.",
+  "author": "Martin Luther King Jr.",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Surat dari Penjara Birmingham, 1963",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 491,
+  "quote": "Kegelapan tidak bisa mengusir kegelapan; hanya cahaya yang bisa. Kebencian tidak bisa mengusir kebencian; hanya cinta yang bisa.",
+  "author": "Martin Luther King Jr.",
+  "tags": [
+   "sejarah",
+   "agama"
+  ],
+  "quote_en": "",
+  "sumber": "Strength to Love, 1963",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 492,
+  "quote": "Pendidikan adalah senjata paling ampuh yang bisa kamu gunakan untuk mengubah dunia.",
+  "author": "Nelson Mandela",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Pidato, 2003"
+ },
+ {
+  "id": 493,
+  "quote": "Dari semua penderitaan manusia, yang paling pahit ialah mengetahui banyak tetapi tidak berkuasa atas apa pun.",
+  "author": "Herodotus",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Historiai 9.16",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 494,
+  "quote": "Yang kuat melakukan apa yang bisa mereka lakukan, dan yang lemah menderita apa yang harus mereka tanggung.",
+  "author": "Thukidides",
+  "tags": [
+   "sejarah",
+   "perang"
+  ],
+  "quote_en": "",
+  "sumber": "Sejarah Perang Peloponnesos 5.89",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 495,
+  "quote": "Yang kalah selalu ingin meniru yang menang, dalam pakaian, kendaraan, dan seluruh kebiasaannya.",
+  "author": "Ibnu Khaldun",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Al-Muqaddimah",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 496,
+  "quote": "Ketidakadilan menghancurkan peradaban.",
+  "author": "Ibnu Khaldun",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Al-Muqaddimah (ringkasan gagasan)",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 497,
+  "quote": "Sejarah pada dasarnya hanyalah catatan kejahatan, kebodohan, dan kemalangan umat manusia.",
+  "author": "Edward Gibbon",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "The Decline and Fall of the Roman Empire, bab 3",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 498,
+  "quote": "Sejarah dunia hanyalah biografi orang-orang besar.",
+  "author": "Thomas Carlyle",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "On Heroes, Hero-Worship, and the Heroic in History, 1841"
+ },
+ {
+  "id": 499,
+  "quote": "Mereka yang tidak dapat mengingat masa lalu ditakdirkan untuk mengulanginya.",
+  "author": "George Santayana",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "The Life of Reason, 1905"
+ },
+ {
+  "id": 500,
+  "quote": "Sejarah hanya ingin menunjukkan bagaimana sesungguhnya hal itu terjadi.",
+  "author": "Leopold von Ranke",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Geschichten der romanischen und germanischen Völker, 1824",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 501,
+  "quote": "Peradaban adalah sungai dengan tepiannya. Sejarawan biasanya mencatat sungainya, sementara di tepiannya orang-orang diam-diam membangun rumah, mencintai, membesarkan anak, dan menulis puisi.",
+  "author": "Will Durant",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "The Story of Civilization",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 502,
+  "quote": "Kamu tidak bisa netral di atas kereta yang sedang melaju.",
+  "author": "Howard Zinn",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Judul memoar, 1994"
+ },
+ {
+  "id": 503,
+  "quote": "Siapa yang menguasai masa lalu, menguasai masa depan.",
+  "author": "George Orwell",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "1984"
+ },
+ {
+  "id": 504,
+  "quote": "Sesungguhnya setiap amal bergantung pada niatnya.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Bukhari dan Muslim",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 505,
+  "quote": "Tidaklah beriman salah seorang di antara kalian sampai ia mencintai untuk saudaranya apa yang ia cintai untuk dirinya sendiri.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Bukhari dan Muslim",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 506,
+  "quote": "Orang kuat bukanlah yang menang dalam bergulat, tetapi yang mampu menguasai dirinya ketika marah.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Bukhari dan Muslim",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 507,
+  "quote": "Barang siapa beriman kepada Allah dan hari akhir, hendaklah ia berkata baik atau diam.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Bukhari dan Muslim",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 508,
+  "quote": "Senyummu di hadapan saudaramu adalah sedekah.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Tirmidzi",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 509,
+  "quote": "Barang siapa tidak menyayangi, ia tidak akan disayangi.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Bukhari dan Muslim",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 510,
+  "quote": "Permudahlah dan jangan mempersulit; berilah kabar gembira dan jangan membuat orang lari.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Bukhari dan Muslim",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 511,
+  "quote": "Jauhilah prasangka, karena prasangka adalah ucapan yang paling dusta.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Bukhari dan Muslim",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 512,
+  "quote": "Tangan yang di atas lebih baik daripada tangan yang di bawah.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Bukhari dan Muslim",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 513,
+  "quote": "Tidak ada makanan yang lebih baik daripada hasil kerja tangannya sendiri.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Bukhari",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 514,
+  "quote": "Barang siapa menempuh jalan untuk mencari ilmu, Allah memudahkan baginya jalan menuju surga.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Muslim",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 515,
+  "quote": "Sesungguhnya aku diutus untuk menyempurnakan akhlak yang mulia.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Ahmad dan Baihaqi",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 516,
+  "quote": "Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lain.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Ahmad dan Thabrani",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 517,
+  "quote": "Bukanlah orang beriman yang kenyang sementara tetangganya kelaparan di sampingnya.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Bukhari dalam Al-Adab Al-Mufrad",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 518,
+  "quote": "Menuntut ilmu adalah kewajiban bagi setiap muslim.",
+  "author": "Nabi Muhammad SAW",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "HR. Ibnu Majah",
+  "catatan": "Status sanadnya diperdebatkan ulama; maknanya dikuatkan hadis-hadis lain."
+ },
+ {
+  "id": 519,
+  "quote": "Perlakukanlah orang lain seperti kamu ingin diperlakukan.",
+  "author": "Yesus Kristus",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "Matius 7:12",
+  "catatan": "Kutipan dalam kata-kata sendiri, bukan teks terjemahan resmi."
+ },
+ {
+  "id": 520,
+  "quote": "Berbahagialah orang yang membawa damai.",
+  "author": "Yesus Kristus",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "Matius 5:9",
+  "catatan": "Kutipan dalam kata-kata sendiri, bukan teks terjemahan resmi."
+ },
+ {
+  "id": 521,
+  "quote": "Kasihilah sesamamu manusia seperti dirimu sendiri.",
+  "author": "Yesus Kristus",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "Matius 22:39",
+  "catatan": "Kutipan dalam kata-kata sendiri, bukan teks terjemahan resmi."
+ },
+ {
+  "id": 522,
+  "quote": "Kamu akan mengenal kebenaran, dan kebenaran itu akan memerdekakanmu.",
+  "author": "Yesus Kristus",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "Yohanes 8:32",
+  "catatan": "Kutipan dalam kata-kata sendiri, bukan teks terjemahan resmi."
+ },
+ {
+  "id": 523,
+  "quote": "Di mana hartamu berada, di situ juga hatimu berada.",
+  "author": "Yesus Kristus",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "Matius 6:21",
+  "catatan": "Kutipan dalam kata-kata sendiri, bukan teks terjemahan resmi."
+ },
+ {
+  "id": 524,
+  "quote": "Mintalah, maka kamu akan diberi; carilah, maka kamu akan menemukan.",
+  "author": "Yesus Kristus",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "Matius 7:7",
+  "catatan": "Kutipan dalam kata-kata sendiri, bukan teks terjemahan resmi."
+ },
+ {
+  "id": 525,
+  "quote": "Lebih berbahagia memberi daripada menerima.",
+  "author": "Yesus Kristus",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "Kisah Para Rasul 20:35",
+  "catatan": "Kutipan dalam kata-kata sendiri, bukan teks terjemahan resmi."
+ },
+ {
+  "id": 526,
+  "quote": "Jawaban yang lembut meredakan amarah, tetapi kata-kata kasar membangkitkan kemarahan.",
+  "author": "Raja Salomo",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "Amsal 15:1",
+  "catatan": "Atribusi tradisional; terjemahan dalam kata-kata sendiri."
+ },
+ {
+  "id": 527,
+  "quote": "Kesombongan mendahului kehancuran, dan keangkuhan mendahului kejatuhan.",
+  "author": "Raja Salomo",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "Amsal 16:18",
+  "catatan": "Atribusi tradisional; terjemahan dalam kata-kata sendiri."
+ },
+ {
+  "id": 528,
+  "quote": "Hati yang gembira adalah obat yang manjur.",
+  "author": "Raja Salomo",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "Amsal 17:22",
+  "catatan": "Atribusi tradisional; terjemahan dalam kata-kata sendiri."
+ },
+ {
+  "id": 529,
+  "quote": "Untuk segala sesuatu ada masanya, dan untuk setiap hal di bawah langit ada waktunya.",
+  "author": "Raja Salomo",
+  "tags": [
+   "agama",
+   "nabi"
+  ],
+  "quote_en": "",
+  "sumber": "Pengkhotbah 3:1",
+  "catatan": "Atribusi tradisional; terjemahan dalam kata-kata sendiri."
+ },
+ {
+  "id": 530,
+  "quote": "Jika aku dapat melihat lebih jauh, itu karena aku berdiri di atas bahu para raksasa.",
+  "author": "Isaac Newton",
+  "tags": [
+   "sains"
+  ],
+  "quote_en": "",
+  "sumber": "Surat kepada Robert Hooke, 1675"
+ },
+ {
+  "id": 531,
+  "quote": "Matematika adalah bahasa yang dengannya Tuhan menulis alam semesta.",
+  "author": "Galileo Galilei",
+  "tags": [
+   "sains"
+  ],
+  "quote_en": "",
+  "sumber": "Il Saggiatore, 1623",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 532,
+  "quote": "Beri aku tempat berpijak, dan aku akan menggerakkan bumi.",
+  "author": "Archimedes",
+  "tags": [
+   "sains"
+  ],
+  "quote_en": "",
+  "sumber": "Dicatat oleh Pappus dari Aleksandria"
+ },
+ {
+  "id": 533,
+  "quote": "Dalam bidang pengamatan, keberuntungan hanya berpihak pada pikiran yang siap.",
+  "author": "Louis Pasteur",
+  "tags": [
+   "sains"
+  ],
+  "quote_en": "",
+  "sumber": "Kuliah di Universitas Lille, 1854"
+ },
+ {
+  "id": 534,
+  "quote": "Prinsip pertama adalah kamu tidak boleh menipu dirimu sendiri, dan kamulah orang yang paling mudah ditipu.",
+  "author": "Richard Feynman",
+  "tags": [
+   "sains"
+  ],
+  "quote_en": "",
+  "sumber": "Cargo Cult Science, 1974"
+ },
+ {
+  "id": 535,
+  "quote": "Agar teknologi berhasil, kenyataan harus didahulukan daripada hubungan masyarakat, sebab alam tidak bisa dibohongi.",
+  "author": "Richard Feynman",
+  "tags": [
+   "sains",
+   "teknologi"
+  ],
+  "quote_en": "",
+  "sumber": "Lampiran Laporan Komisi Rogers, 1986"
+ },
+ {
+  "id": 536,
+  "quote": "Klaim yang luar biasa membutuhkan bukti yang luar biasa.",
+  "author": "Carl Sagan",
+  "tags": [
+   "sains"
+  ],
+  "quote_en": "",
+  "sumber": "Cosmos, 1980"
+ },
+ {
+  "id": 537,
+  "quote": "Kita adalah cara bagi kosmos untuk mengenal dirinya sendiri.",
+  "author": "Carl Sagan",
+  "tags": [
+   "sains"
+  ],
+  "quote_en": "",
+  "sumber": "Cosmos, 1980"
+ },
+ {
+  "id": 538,
+  "quote": "Aku diajari bahwa jalan menuju kemajuan tidak cepat dan tidak mudah.",
+  "author": "Marie Curie",
+  "tags": [
+   "sains"
+  ],
+  "quote_en": "",
+  "sumber": "Dikutip dalam biografi Pierre Curie"
+ },
+ {
+  "id": 539,
+  "quote": "Kita hanya bisa melihat sedikit ke depan, tetapi kita bisa melihat banyak hal yang perlu dikerjakan di sana.",
+  "author": "Alan Turing",
+  "tags": [
+   "sains",
+   "teknologi"
+  ],
+  "quote_en": "",
+  "sumber": "Computing Machinery and Intelligence, 1950"
+ },
+ {
+  "id": 540,
+  "quote": "Cara terbaik untuk memprediksi masa depan adalah dengan menciptakannya.",
+  "author": "Alan Kay",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "",
+  "sumber": "Pertemuan di Xerox PARC, 1971"
+ },
+ {
+  "id": 541,
+  "quote": "Kalimat yang paling berbahaya dalam bahasa kita adalah: \"Kita selalu melakukannya begini.\"",
+  "author": "Grace Hopper",
+  "tags": [
+   "teknologi"
+  ],
+  "quote_en": "",
+  "catatan": "Atribusi umum, belum dapat dipastikan dari sumber primer."
+ },
+ {
+  "id": 542,
+  "quote": "Kecerdasan adalah kemampuan untuk beradaptasi terhadap perubahan.",
+  "author": "Stephen Hawking",
+  "tags": [
+   "sains"
+  ],
+  "quote_en": "",
+  "catatan": "Atribusi umum, belum dapat dipastikan dari sumber primer."
+ },
+ {
+  "id": 543,
+  "quote": "Pencari kebenaran bukanlah orang yang hanya mempelajari tulisan para pendahulu lalu memercayainya begitu saja, melainkan orang yang meragukan keyakinannya dan mengujinya.",
+  "author": "Ibnu al-Haytham",
+  "tags": [
+   "sains"
+  ],
+  "quote_en": "",
+  "sumber": "Keraguan terhadap Ptolemaeus",
+  "catatan": "Terjemahan makna (bukan kutipan harfiah)."
+ },
+ {
+  "id": 544,
+  "quote": "Orang yang berani menyia-nyiakan satu jam waktunya belum menemukan nilai kehidupan.",
+  "author": "Charles Darwin",
+  "tags": [
+   "sains"
+  ],
+  "quote_en": "",
+  "catatan": "Atribusi umum, belum dapat dipastikan dari sumber primer."
+ },
+ {
+  "id": 545,
+  "quote": "Jangan sekali-kali meninggalkan sejarah.",
+  "author": "Soekarno",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Pidato HUT Proklamasi, 17 Agustus 1966 (Jasmerah)"
+ },
+ {
+  "id": 546,
+  "quote": "Beri aku seribu orang tua, niscaya akan kucabut Semeru dari akarnya. Beri aku sepuluh pemuda, niscaya akan kuguncangkan dunia.",
+  "author": "Soekarno",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Pidato, 1961"
+ },
+ {
+  "id": 547,
+  "quote": "Perjuanganku lebih mudah karena mengusir penjajah, tetapi perjuanganmu akan lebih sulit karena melawan bangsamu sendiri.",
+  "author": "Soekarno",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "catatan": "Atribusi umum, belum dapat dipastikan dari sumber primer."
+ },
+ {
+  "id": 548,
+  "quote": "Merdeka atau mati!",
+  "author": "Bung Tomo",
+  "tags": [
+   "perang",
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Pidato 10 November 1945"
+ },
+ {
+  "id": 549,
+  "quote": "Di depan memberi teladan, di tengah membangun semangat, di belakang memberi dorongan.",
+  "author": "Ki Hajar Dewantara",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Ing ngarsa sung tuladha, ing madya mangun karsa, tut wuri handayani"
+ },
+ {
+  "id": 550,
+  "quote": "Habis gelap terbitlah terang.",
+  "author": "R.A. Kartini",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Judul kumpulan surat Kartini (terjemahan Armijn Pane, 1938)"
+ },
+ {
+  "id": 551,
+  "quote": "Seorang terpelajar harus sudah berlaku adil sejak dalam pikiran, apalagi dalam perbuatan.",
+  "author": "Pramoedya Ananta Toer",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Bumi Manusia, 1980"
+ },
+ {
+  "id": 552,
+  "quote": "Orang boleh pandai setinggi langit, tapi selama ia tidak menulis, ia akan hilang di dalam masyarakat dan dari sejarah. Menulis adalah bekerja untuk keabadian.",
+  "author": "Pramoedya Ananta Toer",
+  "tags": [
+   "sejarah"
+  ],
+  "quote_en": "",
+  "sumber": "Rumah Kaca, 1988"
+ }
+]
